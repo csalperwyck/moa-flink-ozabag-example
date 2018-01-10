@@ -1,0 +1,1792 @@
+  if [att 1] <= 0.26558196579227733: 
+    if [att 1] <= 0.01119590233883866: 
+      if [att 3] <= 0.09867357432353063: 
+        if [att 4] <= 0.5304639784502292: 
+          if [att 8] <= 0.4011862750693095: 
+            if [att 4] <= 0.1789889373873017: 
+              if [att 4] <= -0.09569094711471915: 
+                Leaf [class] = <class 1> weights: {652.26|28}
+              if [att 4] > -0.09569094711471915: 
+                Leaf [class] = <class 1> weights: {376.74|99}
+            if [att 4] > 0.1789889373873017: 
+              if [att 2] <= 0.2266709102855864: 
+                Leaf [class] = <class 2> weights: {40|53.672}
+              if [att 2] > 0.2266709102855864: 
+                if [att 5] <= 0.753641241317145: 
+                  Leaf [class] = <class 1> weights: {201.485|22}
+                if [att 5] > 0.753641241317145: 
+                  Leaf [class] = <class 1> weights: {98.515|51}
+          if [att 8] > 0.4011862750693095: 
+            if [att 1] <= -0.3138681653684358: 
+              Leaf [class] = <class 1> weights: {436.202|99.93}
+            if [att 1] > -0.3138681653684358: 
+              Leaf [class] = <class 1> weights: {573.798|400.07}
+        if [att 4] > 0.5304639784502292: 
+          if [att 1] <= -0.24452081305886636: 
+            Leaf [class] = <class 1> weights: {571.877|553}
+          if [att 1] > -0.24452081305886636: 
+            Leaf [class] = <class 2> weights: {810.123|2,012}
+      if [att 3] > 0.09867357432353063: 
+        if [att 3] <= 0.3776660019006095: 
+          if [att 6] <= 0.1669604849905817: 
+            Leaf [class] = <class 2> weights: {697.833|1,087.482}
+          if [att 6] > 0.1669604849905817: 
+            if [att 1] <= -0.26047304984699055: 
+              Leaf [class] = <class 1> weights: {2,472.525|355}
+            if [att 1] > -0.26047304984699055: 
+              if [att 3] <= 0.3276066949770266: 
+                if [att 3] <= 0.22887594529804278: 
+                  Leaf [class] = <class 1> weights: {1,392.361|1,011.818}
+                if [att 3] > 0.22887594529804278: 
+                  Leaf [class] = <class 1> weights: {2,083.639|919.182}
+              if [att 3] > 0.3276066949770266: 
+                if [att 1] <= -0.13949005318732638: 
+                  Leaf [class] = <class 1> weights: {873.22|150}
+                if [att 1] > -0.13949005318732638: 
+                  if [att 2] <= 0.31542575690670893: 
+                    Leaf [class] = <class 1> weights: {139.943|101}
+                  if [att 2] > 0.31542575690670893: 
+                    Leaf [class] = <class 1> weights: {352.057|79}
+        if [att 3] > 0.3776660019006095: 
+          if [att 10] <= 0.06451134199890551: 
+            if [att 6] <= 0.44591341069759993: 
+              if [att 4] <= 0.8104414776810898: 
+                if [att 5] <= 0.5037546432188721: 
+                  Leaf [class] = <class 2> weights: {301.604|614}
+                if [att 5] > 0.5037546432188721: 
+                  Leaf [class] = <class 1> weights: {348.396|236}
+              if [att 4] > 0.8104414776810898: 
+                Leaf [class] = <class 1> weights: {465.244|129}
+            if [att 6] > 0.44591341069759993: 
+              if [att 1] <= -0.31457438622214645: 
+                if [att 7] <= 0.8162809952425389: 
+                  Leaf [class] = <class 1> weights: {802|62}
+                if [att 7] > 0.8162809952425389: 
+                  Leaf [class] = <class 1> weights: {82|66}
+              if [att 1] > -0.31457438622214645: 
+                Leaf [class] = <class 1> weights: {2,646.157|451.015}
+          if [att 10] > 0.06451134199890551: 
+            if [att 4] <= 0.7626522023479951: 
+              if [att 7] <= -0.07489073432342752: 
+                if [att 6] <= -0.027591949130922222: 
+                  Leaf [class] = <class 2> weights: {34.577|62.761}
+                if [att 6] > -0.027591949130922222: 
+                  if [att 2] <= 0.19712273521855567: 
+                    Leaf [class] = <class 1> weights: {1,144.657|3}
+                  if [att 2] > 0.19712273521855567: 
+                    Leaf [class] = <class 1> weights: {1,506.343|133}
+              if [att 7] > -0.07489073432342752: 
+                if [att 6] <= 0.3440805098324031: 
+                  if [att 4] <= 0.11643971098002459: 
+                    Leaf [class] = <class 2> weights: {308.497|396.819}
+                  if [att 4] > 0.11643971098002459: 
+                    if [att 7] <= 0.40540584316854883: 
+                      Leaf [class] = <class 2> weights: {193|231.731}
+                    if [att 7] > 0.40540584316854883: 
+                      Leaf [class] = <class 1> weights: {1,428|214.269}
+                if [att 6] > 0.3440805098324031: 
+                  if [att 8] <= 0.8095990886323524: 
+                    if [att 9] <= 0.6832672934236907: 
+                      if [att 7] <= 1.153692773014177: 
+                        if [att 1] <= -0.4241007370405594: 
+                          Leaf [class] = <class 1> weights: {231.376|34.644}
+                        if [att 1] > -0.4241007370405594: 
+                          if [att 10] <= 0.15167532992994126: 
+                            Leaf [class] = <class 1> weights: {196.399|28}
+                          if [att 10] > 0.15167532992994126: 
+                            if [att 2] <= 0.6686048132956085: 
+                              if [att 5] <= 0.2813653835224877: 
+                                Leaf [class] = <class 1> weights: {391.293|35.543}
+                              if [att 5] > 0.2813653835224877: 
+                                Leaf [class] = <class 1> weights: {1,621.707|59.457}
+                            if [att 2] > 0.6686048132956085: 
+                              Leaf [class] = <class 1> weights: {1,292.915|130.028}
+                      if [att 7] > 1.153692773014177: 
+                        Leaf [class] = <class 1> weights: {481.346|115}
+                    if [att 9] > 0.6832672934236907: 
+                      if [att 9] <= 1.3807952294079486: 
+                        if [att 6] <= 0.7077972349558285: 
+                          Leaf [class] = <class 1> weights: {1,429.888|116.684}
+                        if [att 6] > 0.7077972349558285: 
+                          Leaf [class] = <class 1> weights: {2,017.112|271.316}
+                      if [att 9] > 1.3807952294079486: 
+                        Leaf [class] = <class 1> weights: {109.703|39.746}
+                  if [att 8] > 0.8095990886323524: 
+                    Leaf [class] = <class 1> weights: {821.216|556.863}
+            if [att 4] > 0.7626522023479951: 
+              if [att 6] <= -0.13192533928168687: 
+                Leaf [class] = <class 1> weights: {676|196.235}
+              if [att 6] > -0.13192533928168687: 
+                if [att 5] <= -0.04055737923901703: 
+                  Leaf [class] = <class 1> weights: {699.556|194.509}
+                if [att 5] > -0.04055737923901703: 
+                  if [att 8] <= 1.084961416701557: 
+                    if [att 7] <= 0.6319957114063639: 
+                      if [att 8] <= 0.06664485436028189: 
+                        if [att 9] <= 0.18361140297407008: 
+                          Leaf [class] = <class 1> weights: {206|107.847}
+                        if [att 9] > 0.18361140297407008: 
+                          if [att 5] <= 0.6354786916153722: 
+                            Leaf [class] = <class 1> weights: {684.718|48}
+                          if [att 5] > 0.6354786916153722: 
+                            if [att 1] <= -0.3555293401838411: 
+                              Leaf [class] = <class 1> weights: {73.367|1.033}
+                            if [att 1] > -0.3555293401838411: 
+                              Leaf [class] = <class 2> weights: {106.633|120.967}
+                      if [att 8] > 0.06664485436028189: 
+                        if [att 5] <= 0.90624656557823: 
+                          if [att 4] <= 1.3106831898234903: 
+                            if [att 9] <= 0.1300361237130213: 
+                              Leaf [class] = <class 1> weights: {170.897|88}
+                            if [att 9] > 0.1300361237130213: 
+                              if [att 7] <= 0.4074377061288661: 
+                                if [att 1] <= -0.3214883559613225: 
+                                  Leaf [class] = <class 1> weights: {226.924|12}
+                                if [att 1] > -0.3214883559613225: 
+                                  Leaf [class] = <class 1> weights: {1,748.076|40}
+                              if [att 7] > 0.4074377061288661: 
+                                if [att 3] <= 0.651644081579491: 
+                                  Leaf [class] = <class 2> weights: {28.694|83}
+                                if [att 3] > 0.651644081579491: 
+                                  Leaf [class] = <class 1> weights: {160.306|0}
+                          if [att 4] > 1.3106831898234903: 
+                            Leaf [class] = <class 1> weights: {143.461|101.369}
+                        if [att 5] > 0.90624656557823: 
+                          Leaf [class] = <class 1> weights: {1,554.872|173}
+                    if [att 7] > 0.6319957114063639: 
+                      if [att 9] <= 0.7339108131851315: 
+                        if [att 8] <= -0.3338699052188554: 
+                          Leaf [class] = <class 2> weights: {6|28.526}
+                        if [att 8] > -0.3338699052188554: 
+                          Leaf [class] = <class 1> weights: {1,455|118.474}
+                      if [att 9] > 0.7339108131851315: 
+                        if [att 8] <= 0.40165062789572625: 
+                          Leaf [class] = <class 1> weights: {78.401|9.664}
+                        if [att 8] > 0.40165062789572625: 
+                          Leaf [class] = <class 2> weights: {43.599|174.336}
+                  if [att 8] > 1.084961416701557: 
+                    if [att 7] <= 0.5411413898250739: 
+                      Leaf [class] = <class 1> weights: {197.417|15.238}
+                    if [att 7] > 0.5411413898250739: 
+                      Leaf [class] = <class 2> weights: {49.583|223.762}
+    if [att 1] > 0.01119590233883866: 
+      if [att 3] <= 0.3281095163919112: 
+        if [att 8] <= 0.46400055467080703: 
+          if [att 6] <= 0.58261618048219: 
+            if [att 7] <= 0.7026987060213533: 
+              if [att 7] <= -0.006599121452403933: 
+                Leaf [class] = <class 1> weights: {167.714|129}
+              if [att 7] > -0.006599121452403933: 
+                if [att 8] <= 0.06764054512937667: 
+                  if [att 6] <= 0.3860109169692525: 
+                    Leaf [class] = <class 2> weights: {33|201}
+                  if [att 6] > 0.3860109169692525: 
+                    Leaf [class] = <class 1> weights: {208|51}
+                if [att 8] > 0.06764054512937667: 
+                  if [att 8] <= 0.15627852331792946: 
+                    Leaf [class] = <class 2> weights: {91|175.959}
+                  if [att 8] > 0.15627852331792946: 
+                    if [att 9] <= 0.46839957683914973: 
+                      Leaf [class] = <class 2> weights: {162.218|171}
+                    if [att 9] > 0.46839957683914973: 
+                      if [att 9] <= 0.9364615524813924: 
+                        Leaf [class] = <class 2> weights: {37.567|2,259}
+                      if [att 9] > 0.9364615524813924: 
+                        Leaf [class] = <class 1> weights: {54.433|43}
+            if [att 7] > 0.7026987060213533: 
+              if [att 6] <= 0.30863232056517764: 
+                Leaf [class] = <class 2> weights: {121.162|153}
+              if [att 6] > 0.30863232056517764: 
+                if [att 1] <= 0.12984964150672557: 
+                  Leaf [class] = <class 1> weights: {264.734|30}
+                if [att 1] > 0.12984964150672557: 
+                  Leaf [class] = <class 1> weights: {143.266|65}
+          if [att 6] > 0.58261618048219: 
+            if [att 4] <= 0.5325368744843328: 
+              if [att 6] <= 1.0734700677297428: 
+                if [att 4] <= 0.3335161395150801: 
+                  if [att 2] <= 0.28368595528815244: 
+                    Leaf [class] = <class 1> weights: {1,010.833|63}
+                  if [att 2] > 0.28368595528815244: 
+                    if [att 10] <= 0.47222522255800475: 
+                      if [att 7] <= 0.3713009276427104: 
+                        Leaf [class] = <class 1> weights: {91.903|49}
+                      if [att 7] > 0.3713009276427104: 
+                        if [att 6] <= 0.7208437402890608: 
+                          Leaf [class] = <class 1> weights: {836.734|33}
+                        if [att 6] > 0.7208437402890608: 
+                          Leaf [class] = <class 1> weights: {2,649.266|0}
+                    if [att 10] > 0.47222522255800475: 
+                      if [att 9] <= 0.4957530615842425: 
+                        Leaf [class] = <class 1> weights: {224.157|11}
+                      if [att 9] > 0.4957530615842425: 
+                        Leaf [class] = <class 2> weights: {46.843|52}
+                if [att 4] > 0.3335161395150801: 
+                  if [att 9] <= 0.5620552320624382: 
+                    if [att 9] <= 0.32090689563064895: 
+                      Leaf [class] = <class 1> weights: {1,457.453|26.433}
+                    if [att 9] > 0.32090689563064895: 
+                      Leaf [class] = <class 2> weights: {79.547|143.567}
+                  if [att 9] > 0.5620552320624382: 
+                    if [att 5] <= 0.3341430552748694: 
+                      Leaf [class] = <class 1> weights: {81|77.51}
+                    if [att 5] > 0.3341430552748694: 
+                      if [att 5] <= 0.417993846559272: 
+                        Leaf [class] = <class 1> weights: {37|6}
+                      if [att 5] > 0.417993846559272: 
+                        Leaf [class] = <class 2> weights: {57|946}
+              if [att 6] > 1.0734700677297428: 
+                if [att 4] <= 0.11623011229869701: 
+                  Leaf [class] = <class 1> weights: {357.853|45}
+                if [att 4] > 0.11623011229869701: 
+                  if [att 9] <= 0.18134242231941905: 
+                    Leaf [class] = <class 1> weights: {166.417|0}
+                  if [att 9] > 0.18134242231941905: 
+                    Leaf [class] = <class 2> weights: {239.583|343}
+            if [att 4] > 0.5325368744843328: 
+              if [att 9] <= 0.23039769818824302: 
+                Leaf [class] = <class 1> weights: {828.329|110.184}
+              if [att 9] > 0.23039769818824302: 
+                if [att 5] <= 0.700241094225228: 
+                  if [att 3] <= 0.14684007074894273: 
+                    Leaf [class] = <class 2> weights: {43.794|333.671}
+                  if [att 3] > 0.14684007074894273: 
+                    if [att 10] <= 0.3126361847993103: 
+                      Leaf [class] = <class 1> weights: {51.781|2.276}
+                    if [att 10] > 0.3126361847993103: 
+                      Leaf [class] = <class 2> weights: {52.219|108.724}
+                if [att 5] > 0.700241094225228: 
+                  if [att 1] <= 0.05556070261643638: 
+                    Leaf [class] = <class 2> weights: {122|853.202}
+                  if [att 1] > 0.05556070261643638: 
+                    Leaf [class] = <class 2> weights: {100|2,056.798}
+        if [att 8] > 0.46400055467080703: 
+          if [att 9] <= 0.5383377980999603: 
+            if [att 8] <= 0.6210374874206891: 
+              if [att 9] <= 0.27964489860264674: 
+                if [att 6] <= -0.05537823872829534: 
+                  Leaf [class] = <class 2> weights: {0|16}
+                if [att 6] > -0.05537823872829534: 
+                  Leaf [class] = <class 1> weights: {446|68}
+              if [att 9] > 0.27964489860264674: 
+                Leaf [class] = <class 2> weights: {267.39|390.967}
+            if [att 8] > 0.6210374874206891: 
+              Leaf [class] = <class 2> weights: {973.942|1,485}
+          if [att 9] > 0.5383377980999603: 
+            if [att 9] <= 1.1689451679555494: 
+              if [att 10] <= 0.9085834568914722: 
+                if [att 9] <= 1.048812936370711: 
+                  if [att 7] <= 0.5232869395643098: 
+                    if [att 4] <= 0.7472142768484953: 
+                      if [att 10] <= 0.5587288566294989: 
+                        if [att 1] <= 0.0491856760876154: 
+                          Leaf [class] = <class 2> weights: {16|791.632}
+                        if [att 1] > 0.0491856760876154: 
+                          if [att 8] <= 0.6842864602411607: 
+                            Leaf [class] = <class 2> weights: {0|2,692.518}
+                          if [att 8] > 0.6842864602411607: 
+                            Leaf [class] = <class 2> weights: {41|106.482}
+                      if [att 10] > 0.5587288566294989: 
+                        Leaf [class] = <class 1> weights: {80|43.111}
+                    if [att 4] > 0.7472142768484953: 
+                      if [att 7] <= 0.34737795697991447: 
+                        Leaf [class] = <class 1> weights: {135|9.497}
+                      if [att 7] > 0.34737795697991447: 
+                        Leaf [class] = <class 2> weights: {0|158.503}
+                  if [att 7] > 0.5232869395643098: 
+                    if [att 4] <= 0.5928055416351053: 
+                      if [att 2] <= 1.0689017143258073: 
+                        if [att 6] <= 0.8241178320831413: 
+                          Leaf [class] = <class 2> weights: {61.158|193}
+                        if [att 6] > 0.8241178320831413: 
+                          Leaf [class] = <class 1> weights: {33.842|3}
+                      if [att 2] > 1.0689017143258073: 
+                        Leaf [class] = <class 2> weights: {25|100}
+                    if [att 4] > 0.5928055416351053: 
+                      if [att 6] <= 0.5974884128577023: 
+                        Leaf [class] = <class 2> weights: {92|2,240.259}
+                      if [att 6] > 0.5974884128577023: 
+                        if [att 8] <= 0.6286886072630066: 
+                          Leaf [class] = <class 2> weights: {15|77.736}
+                        if [att 8] > 0.6286886072630066: 
+                          Leaf [class] = <class 2> weights: {8|7,279.264}
+                if [att 9] > 1.048812936370711: 
+                  Leaf [class] = <class 2> weights: {155|1,175.576}
+              if [att 10] > 0.9085834568914722: 
+                if [att 7] <= 0.31210522978703914: 
+                  Leaf [class] = <class 1> weights: {115.217|35}
+                if [att 7] > 0.31210522978703914: 
+                  Leaf [class] = <class 2> weights: {61.783|467}
+            if [att 9] > 1.1689451679555494: 
+              if [att 7] <= 0.34203947141903057: 
+                Leaf [class] = <class 1> weights: {160.467|55.213}
+              if [att 7] > 0.34203947141903057: 
+                Leaf [class] = <class 2> weights: {208.533|507.787}
+      if [att 3] > 0.3281095163919112: 
+        if [att 4] <= 0.4130071151279049: 
+          if [att 6] <= 0.3367787373156634: 
+            if [att 3] <= 0.834780037477578: 
+              if [att 5] <= 0.6510404660458635: 
+                if [att 9] <= 0.4228310268730965: 
+                  Leaf [class] = <class 2> weights: {107.945|316.677}
+                if [att 9] > 0.4228310268730965: 
+                  if [att 9] <= 1.1436902400970301: 
+                    Leaf [class] = <class 2> weights: {41.047|3,189.069}
+                  if [att 9] > 1.1436902400970301: 
+                    Leaf [class] = <class 2> weights: {20.953|36.931}
+              if [att 5] > 0.6510404660458635: 
+                Leaf [class] = <class 2> weights: {246|301.047}
+            if [att 3] > 0.834780037477578: 
+              Leaf [class] = <class 2> weights: {410|936.813}
+          if [att 6] > 0.3367787373156634: 
+            if [att 5] <= 0.6470717722857062: 
+              if [att 8] <= 0.5656297334839203: 
+                if [att 1] <= 0.13089575121631164: 
+                  if [att 6] <= 0.5494412245708058: 
+                    Leaf [class] = <class 1> weights: {422.105|320.965}
+                  if [att 6] > 0.5494412245708058: 
+                    if [att 5] <= 0.2553007783244211: 
+                      Leaf [class] = <class 1> weights: {234.152|44}
+                    if [att 5] > 0.2553007783244211: 
+                      if [att 8] <= 0.0703582603851326: 
+                        Leaf [class] = <class 2> weights: {50|55.438}
+                      if [att 8] > 0.0703582603851326: 
+                        Leaf [class] = <class 1> weights: {520|18.562}
+                if [att 1] > 0.13089575121631164: 
+                  if [att 7] <= 1.0016790527252053: 
+                    if [att 6] <= 0.6582081194074514: 
+                      Leaf [class] = <class 1> weights: {669.967|495.214}
+                    if [att 6] > 0.6582081194074514: 
+                      if [att 9] <= 1.0076540712332243: 
+                        Leaf [class] = <class 1> weights: {1,471|93.207}
+                      if [att 9] > 1.0076540712332243: 
+                        Leaf [class] = <class 1> weights: {56|37.793}
+                  if [att 7] > 1.0016790527252053: 
+                    Leaf [class] = <class 1> weights: {204.094|150}
+              if [att 8] > 0.5656297334839203: 
+                if [att 7] <= 0.2436245403028322: 
+                  Leaf [class] = <class 1> weights: {338.17|62.178}
+                if [att 7] > 0.2436245403028322: 
+                  if [att 8] <= 0.8719523107454065: 
+                    if [att 3] <= 0.8677128142547812: 
+                      Leaf [class] = <class 2> weights: {38|255.13}
+                    if [att 3] > 0.8677128142547812: 
+                      Leaf [class] = <class 2> weights: {43|91.87}
+                  if [att 8] > 0.8719523107454065: 
+                    Leaf [class] = <class 2> weights: {19.028|1,126.564}
+            if [att 5] > 0.6470717722857062: 
+              if [att 2] <= 0.5049248434055041: 
+                if [att 7] <= 0.6251147881274912: 
+                  if [att 4] <= 0.059032778906154215: 
+                    Leaf [class] = <class 1> weights: {408.56|80.932}
+                  if [att 4] > 0.059032778906154215: 
+                    if [att 2] <= 0.397079203433915: 
+                      if [att 5] <= 1.0472427133947868: 
+                        if [att 2] <= -0.13319358755784932: 
+                          Leaf [class] = <class 1> weights: {238.613|6}
+                        if [att 2] > -0.13319358755784932: 
+                          if [att 8] <= 0.09810540750017926: 
+                            Leaf [class] = <class 1> weights: {159.139|9}
+                          if [att 8] > 0.09810540750017926: 
+                            if [att 7] <= 0.3893994339408169: 
+                              Leaf [class] = <class 1> weights: {2,725.11|11}
+                            if [att 7] > 0.3893994339408169: 
+                              Leaf [class] = <class 1> weights: {84.89|8}
+                      if [att 5] > 1.0472427133947868: 
+                        Leaf [class] = <class 1> weights: {300.709|51}
+                    if [att 2] > 0.397079203433915: 
+                      Leaf [class] = <class 1> weights: {205.979|108.021}
+                if [att 7] > 0.6251147881274912: 
+                  if [att 6] <= 0.8190792706747034: 
+                    Leaf [class] = <class 2> weights: {286.459|529}
+                  if [att 6] > 0.8190792706747034: 
+                    Leaf [class] = <class 1> weights: {378.541|20}
+              if [att 2] > 0.5049248434055041: 
+                if [att 1] <= 0.05097229117753159: 
+                  Leaf [class] = <class 1> weights: {401|283.858}
+                if [att 1] > 0.05097229117753159: 
+                  Leaf [class] = <class 2> weights: {312|687.142}
+        if [att 4] > 0.4130071151279049: 
+          if [att 1] <= 0.09453183210934504: 
+            if [att 10] <= 0.1366122488825654: 
+              if [att 3] <= 0.6433158240854956: 
+                Leaf [class] = <class 2> weights: {680.028|2,124}
+              if [att 3] > 0.6433158240854956: 
+                Leaf [class] = <class 1> weights: {2,250.972|713}
+            if [att 10] > 0.1366122488825654: 
+              if [att 3] <= 0.4216514742017671: 
+                if [att 7] <= 0.40830400441105386: 
+                  Leaf [class] = <class 1> weights: {966.367|588.816}
+                if [att 7] > 0.40830400441105386: 
+                  if [att 9] <= 0.6647041968022385: 
+                    Leaf [class] = <class 1> weights: {77|11.513}
+                  if [att 9] > 0.6647041968022385: 
+                    Leaf [class] = <class 2> weights: {0|113.487}
+              if [att 3] > 0.4216514742017671: 
+                if [att 5] <= 0.8749418505525945: 
+                  if [att 5] <= 0.7371151836999436: 
+                    if [att 3] <= 0.5301244266394378: 
+                      if [att 7] <= 0.44329911171865055: 
+                        Leaf [class] = <class 1> weights: {1,709.65|304.997}
+                      if [att 7] > 0.44329911171865055: 
+                        Leaf [class] = <class 1> weights: {701.35|605.003}
+                    if [att 3] > 0.5301244266394378: 
+                      if [att 4] <= 0.9797781221876223: 
+                        if [att 5] <= 0.1399296084988994: 
+                          Leaf [class] = <class 1> weights: {552.206|269.833}
+                        if [att 5] > 0.1399296084988994: 
+                          if [att 10] <= 0.8411183605804967: 
+                            if [att 4] <= 0.6253421254744278: 
+                              if [att 7] <= 0.36755869531001994: 
+                                if [att 2] <= 0.48064273351679504: 
+                                  Leaf [class] = <class 1> weights: {1,072.02|52}
+                                if [att 2] > 0.48064273351679504: 
+                                  Leaf [class] = <class 1> weights: {123.98|68}
+                              if [att 7] > 0.36755869531001994: 
+                                if [att 10] <= 0.3972326933294339: 
+                                  Leaf [class] = <class 1> weights: {58.062|50}
+                                if [att 10] > 0.3972326933294339: 
+                                  if [att 10] <= 0.5871041775765178: 
+                                    Leaf [class] = <class 1> weights: {54.62|24}
+                                  if [att 10] > 0.5871041775765178: 
+                                    Leaf [class] = <class 1> weights: {3,276.38|14}
+                            if [att 4] > 0.6253421254744278: 
+                              if [att 10] <= 0.20160671968964883: 
+                                Leaf [class] = <class 1> weights: {1,666.173|10}
+                              if [att 10] > 0.20160671968964883: 
+                                if [att 6] <= 0.11605416333492252: 
+                                  if [att 7] <= 0.38052980759878363: 
+                                    Leaf [class] = <class 2> weights: {0|40}
+                                  if [att 7] > 0.38052980759878363: 
+                                    Leaf [class] = <class 1> weights: {1,218|10}
+                                if [att 6] > 0.11605416333492252: 
+                                  if [att 8] <= 0.16164500208099278: 
+                                    if [att 8] <= -0.012270909559119275: 
+                                      Leaf [class] = <class 2> weights: {40.572|78.837}
+                                    if [att 8] > -0.012270909559119275: 
+                                      if [att 10] <= 0.3244027497143726: 
+                                        Leaf [class] = <class 1> weights: {27.46|0}
+                                      if [att 10] > 0.3244027497143726: 
+                                        Leaf [class] = <class 1> weights: {697.54|0}
+                                  if [att 8] > 0.16164500208099278: 
+                                    if [att 6] <= 1.0408980467202962: 
+                                      if [att 3] <= 0.9372098581556689: 
+                                        if [att 8] <= 0.7437928045461896: 
+                                          Leaf [class] = <class 1> weights: {15,091.679|0}
+                                        if [att 8] > 0.7437928045461896: 
+                                          Leaf [class] = <class 1> weights: {233.321|13}
+                                      if [att 3] > 0.9372098581556689: 
+                                        Leaf [class] = <class 1> weights: {268.21|11}
+                                    if [att 6] > 1.0408980467202962: 
+                                      Leaf [class] = <class 1> weights: {205.304|39}
+                          if [att 10] > 0.8411183605804967: 
+                            Leaf [class] = <class 1> weights: {1,143|193.801}
+                      if [att 4] > 0.9797781221876223: 
+                        Leaf [class] = <class 1> weights: {2,171|313.875}
+                  if [att 5] > 0.7371151836999436: 
+                    if [att 8] <= 0.08078984460227057: 
+                      Leaf [class] = <class 1> weights: {370.593|220.197}
+                    if [att 8] > 0.08078984460227057: 
+                      if [att 8] <= 0.7405483390722809: 
+                        if [att 2] <= 0.3569009980010456: 
+                          Leaf [class] = <class 1> weights: {373.048|91.297}
+                        if [att 2] > 0.3569009980010456: 
+                          if [att 2] <= 0.7015410942490528: 
+                            Leaf [class] = <class 1> weights: {38|7}
+                          if [att 2] > 0.7015410942490528: 
+                            Leaf [class] = <class 1> weights: {967|0}
+                      if [att 8] > 0.7405483390722809: 
+                        Leaf [class] = <class 1> weights: {120|15}
+                if [att 5] > 0.8749418505525945: 
+                  Leaf [class] = <class 1> weights: {1,798|944.997}
+          if [att 1] > 0.09453183210934504: 
+            if [att 8] <= 0.0645314838672103: 
+              if [att 6] <= 0.287846469492066: 
+                if [att 9] <= 0.46090443126724107: 
+                  Leaf [class] = <class 1> weights: {1,174.849|58.273}
+                if [att 9] > 0.46090443126724107: 
+                  Leaf [class] = <class 2> weights: {61.151|420.727}
+              if [att 6] > 0.287846469492066: 
+                if [att 7] <= 0.40447221989561327: 
+                  if [att 6] <= 0.7749253164989014: 
+                    if [att 2] <= 0.23574365334486852: 
+                      if [att 9] <= 0.6781832912482166: 
+                        Leaf [class] = <class 1> weights: {136|29.974}
+                      if [att 9] > 0.6781832912482166: 
+                        Leaf [class] = <class 2> weights: {18|696.026}
+                    if [att 2] > 0.23574365334486852: 
+                      if [att 10] <= 0.31107745135497744: 
+                        if [att 4] <= 0.6458622056754612: 
+                          Leaf [class] = <class 2> weights: {0|13,426.026}
+                        if [att 4] > 0.6458622056754612: 
+                          Leaf [class] = <class 2> weights: {52|82.974}
+                      if [att 10] > 0.31107745135497744: 
+                        if [att 5] <= 0.4272673673133713: 
+                          Leaf [class] = <class 1> weights: {129|49.91}
+                        if [att 5] > 0.4272673673133713: 
+                          Leaf [class] = <class 2> weights: {66|569.09}
+                  if [att 6] > 0.7749253164989014: 
+                    if [att 3] <= 0.6824086206778919: 
+                      Leaf [class] = <class 2> weights: {148.801|682}
+                    if [att 3] > 0.6824086206778919: 
+                      Leaf [class] = <class 1> weights: {225.199|41}
+                if [att 7] > 0.40447221989561327: 
+                  Leaf [class] = <class 1> weights: {1,048|772}
+            if [att 8] > 0.0645314838672103: 
+              if [att 10] <= 0.21969497449382758: 
+                if [att 3] <= 0.5926646390628669: 
+                  if [att 4] <= 1.0513086690143774: 
+                    if [att 2] <= 0.37841384418607277: 
+                      Leaf [class] = <class 1> weights: {218.266|124.205}
+                    if [att 2] > 0.37841384418607277: 
+                      Leaf [class] = <class 2> weights: {43.734|496.795}
+                  if [att 4] > 1.0513086690143774: 
+                    Leaf [class] = <class 1> weights: {174.481|0}
+                if [att 3] > 0.5926646390628669: 
+                  if [att 5] <= 0.11240732857075753: 
+                    Leaf [class] = <class 2> weights: {216.393|491.711}
+                  if [att 5] > 0.11240732857075753: 
+                    if [att 9] <= 0.1627012811213609: 
+                      Leaf [class] = <class 2> weights: {31|61}
+                    if [att 9] > 0.1627012811213609: 
+                      if [att 7] <= 0.43933939394896865: 
+                        Leaf [class] = <class 1> weights: {1,494.199|70}
+                      if [att 7] > 0.43933939394896865: 
+                        if [att 3] <= 0.8545791163633916: 
+                          Leaf [class] = <class 2> weights: {0|115.313}
+                        if [att 3] > 0.8545791163633916: 
+                          Leaf [class] = <class 1> weights: {88|17.687}
+              if [att 10] > 0.21969497449382758: 
+                if [att 7] <= -0.017801060819807146: 
+                  if [att 9] <= 0.2640087705528046: 
+                    Leaf [class] = <class 1> weights: {190.306|49.656}
+                  if [att 9] > 0.2640087705528046: 
+                    if [att 9] <= 1.2817357566127414: 
+                      if [att 4] <= 0.5881877967263796: 
+                        Leaf [class] = <class 1> weights: {132.854|31}
+                      if [att 4] > 0.5881877967263796: 
+                        Leaf [class] = <class 1> weights: {1,447.146|9}
+                    if [att 9] > 1.2817357566127414: 
+                      Leaf [class] = <class 2> weights: {0|7}
+                if [att 7] > -0.017801060819807146: 
+                  if [att 9] <= 0.23401185995335522: 
+                    if [att 10] <= 0.8717743919796413: 
+                      if [att 10] <= 0.46269449827895287: 
+                        Leaf [class] = <class 1> weights: {237.115|191.369}
+                      if [att 10] > 0.46269449827895287: 
+                        if [att 8] <= 0.4743682970103897: 
+                          Leaf [class] = <class 1> weights: {3,007|67}
+                        if [att 8] > 0.4743682970103897: 
+                          Leaf [class] = <class 1> weights: {166|88}
+                    if [att 10] > 0.8717743919796413: 
+                      Leaf [class] = <class 1> weights: {545.315|351}
+                  if [att 9] > 0.23401185995335522: 
+                    if [att 2] <= 0.6952866851544066: 
+                      if [att 5] <= 0.4741566139502638: 
+                        if [att 8] <= 0.7031106478642555: 
+                          if [att 10] <= 0.8333018792148684: 
+                            Leaf [class] = <class 1> weights: {1,510.786|107.845}
+                          if [att 10] > 0.8333018792148684: 
+                            Leaf [class] = <class 1> weights: {113.214|82.155}
+                        if [att 8] > 0.7031106478642555: 
+                          if [att 10] <= 0.45671615435068014: 
+                            Leaf [class] = <class 2> weights: {49|79.456}
+                          if [att 10] > 0.45671615435068014: 
+                            if [att 3] <= 0.656746000287451: 
+                              Leaf [class] = <class 2> weights: {0|207}
+                            if [att 3] > 0.656746000287451: 
+                              Leaf [class] = <class 1> weights: {43|0}
+                      if [att 5] > 0.4741566139502638: 
+                        if [att 2] <= 0.35638947023131645: 
+                          if [att 7] <= 0.4327407688949365: 
+                            if [att 3] <= 0.4172378210644842: 
+                              Leaf [class] = <class 2> weights: {9.053|60}
+                            if [att 3] > 0.4172378210644842: 
+                              if [att 5] <= 0.8129666513035623: 
+                                Leaf [class] = <class 1> weights: {566|0}
+                              if [att 5] > 0.8129666513035623: 
+                                Leaf [class] = <class 1> weights: {155|61}
+                          if [att 7] > 0.4327407688949365: 
+                            if [att 3] <= 0.6231482717400882: 
+                              Leaf [class] = <class 2> weights: {12.166|734.869}
+                            if [att 3] > 0.6231482717400882: 
+                              Leaf [class] = <class 1> weights: {64.834|39.131}
+                        if [att 2] > 0.35638947023131645: 
+                          if [att 8] <= 0.21804965643195104: 
+                            if [att 5] <= 0.532148081900571: 
+                              Leaf [class] = <class 1> weights: {97|11}
+                            if [att 5] > 0.532148081900571: 
+                              Leaf [class] = <class 2> weights: {35|2,957}
+                          if [att 8] > 0.21804965643195104: 
+                            if [att 3] <= 0.6945494437720824: 
+                              Leaf [class] = <class 1> weights: {320.658|283.931}
+                            if [att 3] > 0.6945494437720824: 
+                              Leaf [class] = <class 1> weights: {401.342|45.069}
+                    if [att 2] > 0.6952866851544066: 
+                      if [att 9] <= 0.4846745581080465: 
+                        Leaf [class] = <class 1> weights: {710.632|498.866}
+                      if [att 9] > 0.4846745581080465: 
+                        if [att 5] <= 0.5179588547518091: 
+                          Leaf [class] = <class 1> weights: {245.323|70}
+                        if [att 5] > 0.5179588547518091: 
+                          if [att 7] <= 0.22640929689467823: 
+                            Leaf [class] = <class 1> weights: {188|0}
+                          if [att 7] > 0.22640929689467823: 
+                            Leaf [class] = <class 2> weights: {0|29}
+  if [att 1] > 0.26558196579227733: 
+    if [att 1] <= 0.5630211976933361: 
+      if [att 1] <= 0.4659691426620005: 
+        if [att 7] <= 0.3201978332063628: 
+          if [att 6] <= 0.1614308642544483: 
+            if [att 7] <= -0.1341391320316081: 
+              Leaf [class] = <class 1> weights: {292.416|214.272}
+            if [att 7] > -0.1341391320316081: 
+              if [att 8] <= 0.7901199044358256: 
+                if [att 4] <= 0.9376318835065024: 
+                  if [att 7] <= -0.010254830143747104: 
+                    Leaf [class] = <class 1> weights: {19|0}
+                  if [att 7] > -0.010254830143747104: 
+                    Leaf [class] = <class 2> weights: {0|323}
+                if [att 4] > 0.9376318835065024: 
+                  Leaf [class] = <class 1> weights: {88.502|65.397}
+              if [att 8] > 0.7901199044358256: 
+                Leaf [class] = <class 1> weights: {123|60}
+          if [att 6] > 0.1614308642544483: 
+            if [att 9] <= 0.5589245416644166: 
+              if [att 5] <= 0.6053738831181785: 
+                if [att 5] <= 0.3771365132629567: 
+                  if [att 4] <= 0.44436247659193884: 
+                    Leaf [class] = <class 1> weights: {1,208.039|289}
+                  if [att 4] > 0.44436247659193884: 
+                    if [att 8] <= 0.584391676823262: 
+                      if [att 10] <= 0.9248722391735821: 
+                        if [att 3] <= 0.15955703099840235: 
+                          Leaf [class] = <class 1> weights: {305|33}
+                        if [att 3] > 0.15955703099840235: 
+                          if [att 5] <= 0.045706729682008757: 
+                            Leaf [class] = <class 1> weights: {870.018|33}
+                          if [att 5] > 0.045706729682008757: 
+                            if [att 8] <= 0.490210570236692: 
+                              if [att 8] <= 0.1157941465056469: 
+                                if [att 4] <= 1.008368992031211: 
+                                  Leaf [class] = <class 1> weights: {421|10}
+                                if [att 4] > 1.008368992031211: 
+                                  Leaf [class] = <class 1> weights: {41|22}
+                              if [att 8] > 0.1157941465056469: 
+                                if [att 3] <= 0.24372690698266114: 
+                                  Leaf [class] = <class 1> weights: {1,053.33|12}
+                                if [att 3] > 0.24372690698266114: 
+                                  if [att 3] <= 0.2978765214915446: 
+                                    Leaf [class] = <class 1> weights: {2,520.861|8}
+                                  if [att 3] > 0.2978765214915446: 
+                                    if [att 5] <= 0.34462029784882464: 
+                                      Leaf [class] = <class 1> weights: {27,461.584|0}
+                                    if [att 5] > 0.34462029784882464: 
+                                      Leaf [class] = <class 1> weights: {390.416|8}
+                            if [att 8] > 0.490210570236692: 
+                              Leaf [class] = <class 1> weights: {1,904.896|32}
+                      if [att 10] > 0.9248722391735821: 
+                        if [att 10] <= 1.0538898575610651: 
+                          Leaf [class] = <class 1> weights: {1,069.044|39.171}
+                        if [att 10] > 1.0538898575610651: 
+                          Leaf [class] = <class 2> weights: {16.956|107.829}
+                    if [att 8] > 0.584391676823262: 
+                      Leaf [class] = <class 1> weights: {776.653|209}
+                if [att 5] > 0.3771365132629567: 
+                  if [att 6] <= 0.4814951383085315: 
+                    if [att 7] <= 0.05674424466846051: 
+                      Leaf [class] = <class 1> weights: {328.705|73.942}
+                    if [att 7] > 0.05674424466846051: 
+                      if [att 5] <= 0.40907083291968327: 
+                        Leaf [class] = <class 1> weights: {50|14.682}
+                      if [att 5] > 0.40907083291968327: 
+                        Leaf [class] = <class 2> weights: {108|832.318}
+                  if [att 6] > 0.4814951383085315: 
+                    if [att 5] <= 0.48074618042071343: 
+                      Leaf [class] = <class 1> weights: {1,857.041|75.57}
+                    if [att 5] > 0.48074618042071343: 
+                      Leaf [class] = <class 1> weights: {1,082.959|314.43}
+              if [att 5] > 0.6053738831181785: 
+                if [att 6] <= 0.6150421107047447: 
+                  if [att 6] <= 0.40451583270068825: 
+                    if [att 2] <= 0.2786218088149166: 
+                      Leaf [class] = <class 1> weights: {128.471|42.231}
+                    if [att 2] > 0.2786218088149166: 
+                      Leaf [class] = <class 2> weights: {162.529|3,052.769}
+                  if [att 6] > 0.40451583270068825: 
+                    Leaf [class] = <class 1> weights: {826.369|438}
+                if [att 6] > 0.6150421107047447: 
+                  if [att 1] <= 0.4443923180719529: 
+                    if [att 9] <= 0.33016620194821944: 
+                      Leaf [class] = <class 1> weights: {2,857.95|218.734}
+                    if [att 9] > 0.33016620194821944: 
+                      Leaf [class] = <class 1> weights: {433.05|359.266}
+                  if [att 1] > 0.4443923180719529: 
+                    Leaf [class] = <class 1> weights: {1,204.361|190}
+            if [att 9] > 0.5589245416644166: 
+              if [att 3] <= 0.64119590368997: 
+                if [att 5] <= 0.6130225504124371: 
+                  if [att 2] <= 0.466312767923873: 
+                    Leaf [class] = <class 1> weights: {1,070.241|323.061}
+                  if [att 2] > 0.466312767923873: 
+                    Leaf [class] = <class 2> weights: {777.759|1,589.939}
+                if [att 5] > 0.6130225504124371: 
+                  if [att 8] <= 0.5332928313811276: 
+                    if [att 10] <= 0.8655819591522385: 
+                      Leaf [class] = <class 2> weights: {326.359|2,435}
+                    if [att 10] > 0.8655819591522385: 
+                      Leaf [class] = <class 1> weights: {100.641|100}
+                  if [att 8] > 0.5332928313811276: 
+                    Leaf [class] = <class 1> weights: {582.078|97.977}
+              if [att 3] > 0.64119590368997: 
+                if [att 5] <= 0.014281277785705385: 
+                  Leaf [class] = <class 1> weights: {239|126}
+                if [att 5] > 0.014281277785705385: 
+                  if [att 1] <= 0.4387672540364036: 
+                    Leaf [class] = <class 1> weights: {1,880.654|290}
+                  if [att 1] > 0.4387672540364036: 
+                    Leaf [class] = <class 1> weights: {1,255.346|395}
+        if [att 7] > 0.3201978332063628: 
+          if [att 5] <= 0.4315397567187897: 
+            if [att 3] <= 0.32420798665077794: 
+              if [att 4] <= 0.22949408486423717: 
+                if [att 8] <= 0.36298314179759983: 
+                  if [att 10] <= 0.49998767437801667: 
+                    Leaf [class] = <class 1> weights: {1,748|63.872}
+                  if [att 10] > 0.49998767437801667: 
+                    Leaf [class] = <class 1> weights: {131|88.128}
+                if [att 8] > 0.36298314179759983: 
+                  if [att 3] <= 0.06931700970164278: 
+                    Leaf [class] = <class 2> weights: {136|158.72}
+                  if [att 3] > 0.06931700970164278: 
+                    if [att 10] <= 0.10739557776123598: 
+                      Leaf [class] = <class 1> weights: {104|22.499}
+                    if [att 10] > 0.10739557776123598: 
+                      Leaf [class] = <class 2> weights: {39|765.501}
+              if [att 4] > 0.22949408486423717: 
+                if [att 9] <= 0.060719901675500065: 
+                  Leaf [class] = <class 1> weights: {622.617|79}
+                if [att 9] > 0.060719901675500065: 
+                  if [att 10] <= 0.40775588789736494: 
+                    Leaf [class] = <class 2> weights: {976.632|1,621.239}
+                  if [att 10] > 0.40775588789736494: 
+                    if [att 3] <= 0.13841143696098224: 
+                      if [att 9] <= 0.18553780306030992: 
+                        Leaf [class] = <class 1> weights: {23|0}
+                      if [att 9] > 0.18553780306030992: 
+                        Leaf [class] = <class 2> weights: {8|365}
+                    if [att 3] > 0.13841143696098224: 
+                      if [att 9] <= 0.5942990231478866: 
+                        Leaf [class] = <class 2> weights: {159|229.919}
+                      if [att 9] > 0.5942990231478866: 
+                        Leaf [class] = <class 2> weights: {29|399.081}
+            if [att 3] > 0.32420798665077794: 
+              if [att 6] <= 0.38567799789244506: 
+                if [att 4] <= 0.5716664361563196: 
+                  if [att 7] <= 0.9238145110379828: 
+                    if [att 4] <= 0.24847289890399848: 
+                      if [att 2] <= 0.2499207136423438: 
+                        Leaf [class] = <class 1> weights: {25|13.808}
+                      if [att 2] > 0.2499207136423438: 
+                        Leaf [class] = <class 2> weights: {0|204.192}
+                    if [att 4] > 0.24847289890399848: 
+                      Leaf [class] = <class 2> weights: {97|386.108}
+                  if [att 7] > 0.9238145110379828: 
+                    Leaf [class] = <class 2> weights: {275.142|275.681}
+                if [att 4] > 0.5716664361563196: 
+                  if [att 7] <= 0.6001530390538349: 
+                    if [att 8] <= 0.7363811133432797: 
+                      Leaf [class] = <class 2> weights: {151.944|342}
+                    if [att 8] > 0.7363811133432797: 
+                      Leaf [class] = <class 1> weights: {254.056|12}
+                  if [att 7] > 0.6001530390538349: 
+                    if [att 8] <= 0.3477132622013682: 
+                      Leaf [class] = <class 1> weights: {198.949|124.758}
+                    if [att 8] > 0.3477132622013682: 
+                      if [att 10] <= -0.09570094515841471: 
+                        Leaf [class] = <class 1> weights: {34.89|12}
+                      if [att 10] > -0.09570094515841471: 
+                        if [att 9] <= 0.8569732658842629: 
+                          if [att 10] <= 0.11053479928513607: 
+                            Leaf [class] = <class 1> weights: {136.143|0}
+                          if [att 10] > 0.11053479928513607: 
+                            Leaf [class] = <class 1> weights: {1,916.857|9}
+                        if [att 9] > 0.8569732658842629: 
+                          Leaf [class] = <class 2> weights: {29.248|35.6}
+              if [att 6] > 0.38567799789244506: 
+                if [att 9] <= 0.8983444179428537: 
+                  if [att 10] <= -0.2934940061548449: 
+                    if [att 4] <= 0.3049261690456578: 
+                      Leaf [class] = <class 1> weights: {47.779|34}
+                    if [att 4] > 0.3049261690456578: 
+                      Leaf [class] = <class 2> weights: {13.221|251}
+                  if [att 10] > -0.2934940061548449: 
+                    if [att 7] <= 0.5512113202164011: 
+                      if [att 10] <= 0.4711949312825425: 
+                        if [att 2] <= 0.5413392794625922: 
+                          Leaf [class] = <class 1> weights: {693.894|33.913}
+                        if [att 2] > 0.5413392794625922: 
+                          if [att 8] <= 0.5317073251277654: 
+                            Leaf [class] = <class 1> weights: {129|122.726}
+                          if [att 8] > 0.5317073251277654: 
+                            if [att 5] <= 0.1883804519702107: 
+                              Leaf [class] = <class 2> weights: {0|2,086}
+                            if [att 5] > 0.1883804519702107: 
+                              Leaf [class] = <class 2> weights: {43|195}
+                      if [att 10] > 0.4711949312825425: 
+                        if [att 9] <= 0.43265204726657347: 
+                          if [att 7] <= 0.46293350884368367: 
+                            Leaf [class] = <class 1> weights: {729.881|65.483}
+                          if [att 7] > 0.46293350884368367: 
+                            Leaf [class] = <class 2> weights: {94.119|95.517}
+                        if [att 9] > 0.43265204726657347: 
+                          Leaf [class] = <class 2> weights: {324|453}
+                    if [att 7] > 0.5512113202164011: 
+                      if [att 4] <= 0.9686602633501522: 
+                        if [att 9] <= 0.2074483490925143: 
+                          if [att 8] <= 0.3672414887209151: 
+                            Leaf [class] = <class 1> weights: {548|87.294}
+                          if [att 8] > 0.3672414887209151: 
+                            Leaf [class] = <class 2> weights: {128|723.706}
+                        if [att 9] > 0.2074483490925143: 
+                          if [att 3] <= 0.8262301385576454: 
+                            if [att 3] <= 0.4244157738063772: 
+                              if [att 9] <= 0.7811972737537763: 
+                                if [att 10] <= 0.5864241342686948: 
+                                  if [att 5] <= 0.23448471167140944: 
+                                    Leaf [class] = <class 2> weights: {72.111|751.142}
+                                  if [att 5] > 0.23448471167140944: 
+                                    if [att 2] <= 0.5725886981028535: 
+                                      Leaf [class] = <class 1> weights: {173|0}
+                                    if [att 2] > 0.5725886981028535: 
+                                      Leaf [class] = <class 2> weights: {0|45}
+                                if [att 10] > 0.5864241342686948: 
+                                  if [att 8] <= 0.6033940740519779: 
+                                    Leaf [class] = <class 2> weights: {0|3,903.584}
+                                  if [att 8] > 0.6033940740519779: 
+                                    Leaf [class] = <class 2> weights: {33|2,236.416}
+                              if [att 9] > 0.7811972737537763: 
+                                Leaf [class] = <class 1> weights: {126.644|93}
+                            if [att 3] > 0.4244157738063772: 
+                              if [att 6] <= 1.0837645301758887: 
+                                if [att 2] <= 0.13010053405474692: 
+                                  Leaf [class] = <class 2> weights: {116.48|272.947}
+                                if [att 2] > 0.13010053405474692: 
+                                  if [att 10] <= 0.393036608145893: 
+                                    if [att 8] <= 0.6768947650521823: 
+                                      Leaf [class] = <class 2> weights: {207.745|211.309}
+                                    if [att 8] > 0.6768947650521823: 
+                                      if [att 6] <= 0.45530022879174853: 
+                                        Leaf [class] = <class 1> weights: {23|14}
+                                      if [att 6] > 0.45530022879174853: 
+                                        if [att 5] <= 0.24217019077223728: 
+                                          Leaf [class] = <class 2> weights: {0|9,054.056}
+                                        if [att 5] > 0.24217019077223728: 
+                                          Leaf [class] = <class 2> weights: {12|98.944}
+                                  if [att 10] > 0.393036608145893: 
+                                    if [att 7] <= 0.7130823574062333: 
+                                      Leaf [class] = <class 2> weights: {91|1,583.601}
+                                    if [att 7] > 0.7130823574062333: 
+                                      if [att 5] <= 0.25286827338589163: 
+                                        Leaf [class] = <class 2> weights: {94|1,120.394}
+                                      if [att 5] > 0.25286827338589163: 
+                                        if [att 7] <= 0.9287463221544403: 
+                                          if [att 7] <= 0.7519510454958426: 
+                                            Leaf [class] = <class 2> weights: {10|872.906}
+                                          if [att 7] > 0.7519510454958426: 
+                                            if [att 3] <= 0.5619184039519887: 
+                                              Leaf [class] = <class 2> weights: {0|19,348.387}
+                                            if [att 3] > 0.5619184039519887: 
+                                              Leaf [class] = <class 2> weights: {12|483.613}
+                                        if [att 7] > 0.9287463221544403: 
+                                          Leaf [class] = <class 2> weights: {72|639.908}
+                              if [att 6] > 1.0837645301758887: 
+                                Leaf [class] = <class 2> weights: {125|704.529}
+                          if [att 3] > 0.8262301385576454: 
+                            Leaf [class] = <class 1> weights: {309|296}
+                      if [att 4] > 0.9686602633501522: 
+                        if [att 3] <= 0.7364178335297452: 
+                          if [att 10] <= 0.3861011216168093: 
+                            Leaf [class] = <class 1> weights: {59|8.829}
+                          if [att 10] > 0.3861011216168093: 
+                            Leaf [class] = <class 2> weights: {0|148.171}
+                        if [att 3] > 0.7364178335297452: 
+                          Leaf [class] = <class 1> weights: {204.495|6}
+                if [att 9] > 0.8983444179428537: 
+                  if [att 10] <= 0.2553926936840736: 
+                    Leaf [class] = <class 1> weights: {569.07|164.873}
+                  if [att 10] > 0.2553926936840736: 
+                    if [att 3] <= 0.7595499257284677: 
+                      if [att 8] <= 0.48304735435034774: 
+                        Leaf [class] = <class 2> weights: {10|169.596}
+                      if [att 8] > 0.48304735435034774: 
+                        Leaf [class] = <class 1> weights: {65|53.404}
+                    if [att 3] > 0.7595499257284677: 
+                      Leaf [class] = <class 1> weights: {188.38|35.342}
+          if [att 5] > 0.4315397567187897: 
+            if [att 3] <= 0.696819005771394: 
+              if [att 9] <= 0.6054531816343173: 
+                if [att 10] <= 0.6735558627567879: 
+                  if [att 6] <= 0.369651623314062: 
+                    if [att 7] <= 0.7480776449198003: 
+                      if [att 10] <= 0.24542012446703068: 
+                        if [att 2] <= 0.6677029826469754: 
+                          Leaf [class] = <class 2> weights: {34.787|206}
+                        if [att 2] > 0.6677029826469754: 
+                          Leaf [class] = <class 1> weights: {130.213|37}
+                      if [att 10] > 0.24542012446703068: 
+                        if [att 4] <= 0.7303283643532272: 
+                          if [att 2] <= 0.7093068402266924: 
+                            Leaf [class] = <class 2> weights: {10|2,623.248}
+                          if [att 2] > 0.7093068402266924: 
+                            Leaf [class] = <class 2> weights: {113|1,041.752}
+                        if [att 4] > 0.7303283643532272: 
+                          Leaf [class] = <class 1> weights: {132.171|78.991}
+                    if [att 7] > 0.7480776449198003: 
+                      if [att 4] <= 0.5556962409372125: 
+                        if [att 8] <= 0.6522030578503324: 
+                          Leaf [class] = <class 1> weights: {204|44.323}
+                        if [att 8] > 0.6522030578503324: 
+                          Leaf [class] = <class 2> weights: {0|73.677}
+                      if [att 4] > 0.5556962409372125: 
+                        if [att 2] <= 0.5342337465274627: 
+                          Leaf [class] = <class 2> weights: {14.654|49.529}
+                        if [att 2] > 0.5342337465274627: 
+                          if [att 2] <= 1.4878221602621742: 
+                            Leaf [class] = <class 1> weights: {1,292.927|0}
+                          if [att 2] > 1.4878221602621742: 
+                            Leaf [class] = <class 2> weights: {0.073|12}
+                  if [att 6] > 0.369651623314062: 
+                    if [att 4] <= 0.6449199996434783: 
+                      if [att 2] <= 0.5916188925592751: 
+                        if [att 10] <= 0.12963665214730835: 
+                          Leaf [class] = <class 1> weights: {284|153}
+                        if [att 10] > 0.12963665214730835: 
+                          if [att 3] <= 0.18319870431365043: 
+                            Leaf [class] = <class 1> weights: {1,091.995|136}
+                          if [att 3] > 0.18319870431365043: 
+                            if [att 2] <= 0.04455603589394269: 
+                              if [att 8] <= 0.3754670684008661: 
+                                if [att 10] <= 0.27991376871755025: 
+                                  Leaf [class] = <class 1> weights: {69.429|0}
+                                if [att 10] > 0.27991376871755025: 
+                                  Leaf [class] = <class 1> weights: {1,773.571|0}
+                              if [att 8] > 0.3754670684008661: 
+                                Leaf [class] = <class 2> weights: {33.188|62.856}
+                            if [att 2] > 0.04455603589394269: 
+                              if [att 10] <= 0.5848175456934559: 
+                                if [att 3] <= 0.5616052696063565: 
+                                  if [att 1] <= 0.43894441216961444: 
+                                    if [att 5] <= 0.8806238212829368: 
+                                      if [att 2] <= 0.4918144765407477: 
+                                        Leaf [class] = <class 1> weights: {31,705.698|0}
+                                      if [att 2] > 0.4918144765407477: 
+                                        Leaf [class] = <class 1> weights: {1,688.302|9}
+                                    if [att 5] > 0.8806238212829368: 
+                                      Leaf [class] = <class 1> weights: {260.659|33}
+                                  if [att 1] > 0.43894441216961444: 
+                                    if [att 10] <= 0.35658514317169354: 
+                                      Leaf [class] = <class 1> weights: {204.054|27}
+                                    if [att 10] > 0.35658514317169354: 
+                                      if [att 5] <= 1.0478373252439162: 
+                                        Leaf [class] = <class 1> weights: {2,560|0}
+                                      if [att 5] > 1.0478373252439162: 
+                                        Leaf [class] = <class 2> weights: {0|6}
+                                if [att 3] > 0.5616052696063565: 
+                                  if [att 8] <= 0.24338685565860124: 
+                                    Leaf [class] = <class 1> weights: {1,900|0}
+                                  if [att 8] > 0.24338685565860124: 
+                                    Leaf [class] = <class 2> weights: {9|47}
+                              if [att 10] > 0.5848175456934559: 
+                                Leaf [class] = <class 1> weights: {1,566.726|96}
+                      if [att 2] > 0.5916188925592751: 
+                        if [att 8] <= 0.48269219706484034: 
+                          if [att 4] <= 0.2786798217003319: 
+                            Leaf [class] = <class 1> weights: {501.341|31.125}
+                          if [att 4] > 0.2786798217003319: 
+                            Leaf [class] = <class 1> weights: {195.659|102.875}
+                        if [att 8] > 0.48269219706484034: 
+                          Leaf [class] = <class 2> weights: {224.446|950.408}
+                    if [att 4] > 0.6449199996434783: 
+                      if [att 9] <= 0.46637933798429204: 
+                        Leaf [class] = <class 1> weights: {490.709|293}
+                      if [att 9] > 0.46637933798429204: 
+                        Leaf [class] = <class 2> weights: {172.291|360}
+                if [att 10] > 0.6735558627567879: 
+                  if [att 9] <= 0.17515908157723886: 
+                    if [att 2] <= 0.6135579725656858: 
+                      if [att 6] <= 0.3932887959534193: 
+                        Leaf [class] = <class 2> weights: {27|165.044}
+                      if [att 6] > 0.3932887959534193: 
+                        if [att 6] <= 0.4889307093039486: 
+                          Leaf [class] = <class 2> weights: {33.223|43}
+                        if [att 6] > 0.4889307093039486: 
+                          Leaf [class] = <class 1> weights: {2,758.777|13}
+                    if [att 2] > 0.6135579725656858: 
+                      if [att 7] <= 0.6391328505460019: 
+                        Leaf [class] = <class 2> weights: {110.806|454}
+                      if [att 7] > 0.6391328505460019: 
+                        Leaf [class] = <class 1> weights: {280.194|104}
+                  if [att 9] > 0.17515908157723886: 
+                    if [att 5] <= 0.6876721342317966: 
+                      if [att 9] <= 0.37126899378110056: 
+                        if [att 2] <= 0.37787042377758073: 
+                          Leaf [class] = <class 1> weights: {105.97|54.445}
+                        if [att 2] > 0.37787042377758073: 
+                          if [att 9] <= 0.24568032809589618: 
+                            Leaf [class] = <class 2> weights: {51|91.249}
+                          if [att 9] > 0.24568032809589618: 
+                            Leaf [class] = <class 2> weights: {8|262.751}
+                      if [att 9] > 0.37126899378110056: 
+                        if [att 9] <= 0.4179152180045042: 
+                          Leaf [class] = <class 2> weights: {77|502.873}
+                        if [att 9] > 0.4179152180045042: 
+                          if [att 7] <= 0.3821560499852731: 
+                            Leaf [class] = <class 1> weights: {13|9}
+                          if [att 7] > 0.3821560499852731: 
+                            Leaf [class] = <class 2> weights: {54|2,809}
+                    if [att 5] > 0.6876721342317966: 
+                      if [att 9] <= 0.3691063663880957: 
+                        Leaf [class] = <class 1> weights: {514.103|168.452}
+                      if [att 9] > 0.3691063663880957: 
+                        Leaf [class] = <class 2> weights: {195.897|526.548}
+              if [att 9] > 0.6054531816343173: 
+                if [att 10] <= 0.053757583483820176: 
+                  if [att 2] <= 0.4874669843713577: 
+                    Leaf [class] = <class 2> weights: {91|214.867}
+                  if [att 2] > 0.4874669843713577: 
+                    Leaf [class] = <class 1> weights: {1,327|100.133}
+                if [att 10] > 0.053757583483820176: 
+                  if [att 2] <= 0.7018763398033565: 
+                    if [att 8] <= 0.8699040730089376: 
+                      if [att 4] <= -0.10353995523086854: 
+                        Leaf [class] = <class 1> weights: {147.08|66}
+                      if [att 4] > -0.10353995523086854: 
+                        if [att 10] <= 0.8601461029187338: 
+                          if [att 8] <= 0.6834961001302967: 
+                            if [att 8] <= 0.3913188896637874: 
+                              if [att 8] <= 0.27260199511989014: 
+                                if [att 3] <= 0.4178286222301059: 
+                                  Leaf [class] = <class 2> weights: {115|1,759.377}
+                                if [att 3] > 0.4178286222301059: 
+                                  if [att 10] <= 0.6509927662120301: 
+                                    if [att 5] <= 0.5771654558811935: 
+                                      Leaf [class] = <class 1> weights: {16|13.172}
+                                    if [att 5] > 0.5771654558811935: 
+                                      Leaf [class] = <class 2> weights: {0|2,960.828}
+                                  if [att 10] > 0.6509927662120301: 
+                                    Leaf [class] = <class 2> weights: {24|457.836}
+                              if [att 8] > 0.27260199511989014: 
+                                Leaf [class] = <class 2> weights: {49|156}
+                            if [att 8] > 0.3913188896637874: 
+                              Leaf [class] = <class 2> weights: {202.388|567.241}
+                          if [att 8] > 0.6834961001302967: 
+                            if [att 4] <= 0.6513895101964358: 
+                              Leaf [class] = <class 1> weights: {219|81.727}
+                            if [att 4] > 0.6513895101964358: 
+                              if [att 7] <= 0.5688983308776583: 
+                                Leaf [class] = <class 1> weights: {35.814|0}
+                              if [att 7] > 0.5688983308776583: 
+                                Leaf [class] = <class 2> weights: {6.186|534}
+                        if [att 10] > 0.8601461029187338: 
+                          if [att 5] <= 0.8977949765916265: 
+                            if [att 5] <= 0.673336580074784: 
+                              if [att 7] <= 0.5359366521460424: 
+                                Leaf [class] = <class 2> weights: {24|84}
+                              if [att 7] > 0.5359366521460424: 
+                                Leaf [class] = <class 2> weights: {0|1,814}
+                            if [att 5] > 0.673336580074784: 
+                              Leaf [class] = <class 2> weights: {99.256|125.47}
+                          if [att 5] > 0.8977949765916265: 
+                            Leaf [class] = <class 1> weights: {99|62}
+                    if [att 8] > 0.8699040730089376: 
+                      if [att 6] <= 0.6224360963422821: 
+                        Leaf [class] = <class 1> weights: {441.137|194}
+                      if [att 6] > 0.6224360963422821: 
+                        if [att 4] <= 0.6506940006802795: 
+                          Leaf [class] = <class 1> weights: {295.054|35.287}
+                        if [att 4] > 0.6506940006802795: 
+                          if [att 7] <= 0.6154704473919295: 
+                            Leaf [class] = <class 1> weights: {65|2}
+                          if [att 7] > 0.6154704473919295: 
+                            Leaf [class] = <class 2> weights: {0|331}
+                  if [att 2] > 0.7018763398033565: 
+                    if [att 7] <= 0.7780633514233957: 
+                      if [att 10] <= 0.35677945331620703: 
+                        Leaf [class] = <class 2> weights: {237.346|347}
+                      if [att 10] > 0.35677945331620703: 
+                        Leaf [class] = <class 2> weights: {170.654|2,063}
+                    if [att 7] > 0.7780633514233957: 
+                      if [att 10] <= 0.3028180131328182: 
+                        Leaf [class] = <class 1> weights: {314.51|8}
+                      if [att 10] > 0.3028180131328182: 
+                        Leaf [class] = <class 2> weights: {402.49|565}
+            if [att 3] > 0.696819005771394: 
+              if [att 7] <= 0.8198941475486483: 
+                if [att 7] <= 0.6709635788717762: 
+                  if [att 3] <= 0.8570049706966087: 
+                    if [att 6] <= 0.4330682017732254: 
+                      if [att 10] <= 0.323181278605108: 
+                        Leaf [class] = <class 2> weights: {73.867|198.215}
+                      if [att 10] > 0.323181278605108: 
+                        if [att 10] <= 0.3885764395802439: 
+                          Leaf [class] = <class 2> weights: {0|895.057}
+                        if [att 10] > 0.3885764395802439: 
+                          if [att 3] <= 0.7808429521432907: 
+                            if [att 10] <= 0.4211435813489256: 
+                              Leaf [class] = <class 2> weights: {0|493.818}
+                            if [att 10] > 0.4211435813489256: 
+                              if [att 8] <= 0.806266743900114: 
+                                Leaf [class] = <class 2> weights: {0|3,088}
+                              if [att 8] > 0.806266743900114: 
+                                Leaf [class] = <class 1> weights: {43|0}
+                          if [att 3] > 0.7808429521432907: 
+                            Leaf [class] = <class 2> weights: {66.333|929.002}
+                    if [att 6] > 0.4330682017732254: 
+                      Leaf [class] = <class 1> weights: {780|276}
+                  if [att 3] > 0.8570049706966087: 
+                    Leaf [class] = <class 1> weights: {1,302|1,036}
+                if [att 7] > 0.6709635788717762: 
+                  Leaf [class] = <class 1> weights: {1,152|849}
+              if [att 7] > 0.8198941475486483: 
+                if [att 4] <= 0.7783204806875539: 
+                  if [att 8] <= 0.5050955203686381: 
+                    if [att 8] <= 0.14790720655841277: 
+                      Leaf [class] = <class 1> weights: {107.651|4.649}
+                    if [att 8] > 0.14790720655841277: 
+                      Leaf [class] = <class 2> weights: {24.349|80.351}
+                  if [att 8] > 0.5050955203686381: 
+                    Leaf [class] = <class 2> weights: {69.736|256.052}
+                if [att 4] > 0.7783204806875539: 
+                  Leaf [class] = <class 1> weights: {953.305|183.947}
+      if [att 1] > 0.4659691426620005: 
+        if [att 3] <= 0.3635620957105986: 
+          if [att 6] <= 0.5918494992585619: 
+            if [att 8] <= 0.5138146852722993: 
+              if [att 9] <= 0.046001206830561164: 
+                Leaf [class] = <class 1> weights: {458|144}
+              if [att 9] > 0.046001206830561164: 
+                if [att 6] <= 0.39194037430246875: 
+                  if [att 10] <= 0.39059337579485537: 
+                    Leaf [class] = <class 2> weights: {203|708.91}
+                  if [att 10] > 0.39059337579485537: 
+                    if [att 7] <= 0.641810541620759: 
+                      if [att 8] <= 0.06395565353543037: 
+                        Leaf [class] = <class 2> weights: {42|225.92}
+                      if [att 8] > 0.06395565353543037: 
+                        if [att 9] <= 0.5200438092955575: 
+                          Leaf [class] = <class 2> weights: {32|443.594}
+                        if [att 9] > 0.5200438092955575: 
+                          Leaf [class] = <class 2> weights: {0|32,420.406}
+                    if [att 7] > 0.641810541620759: 
+                      Leaf [class] = <class 2> weights: {98|1,431.339}
+                if [att 6] > 0.39194037430246875: 
+                  if [att 4] <= 0.40557278989662315: 
+                    Leaf [class] = <class 1> weights: {326.08|117.615}
+                  if [att 4] > 0.40557278989662315: 
+                    Leaf [class] = <class 2> weights: {170.92|1,120.385}
+            if [att 8] > 0.5138146852722993: 
+              if [att 4] <= 0.42524746849916495: 
+                if [att 9] <= 0.6821351321842851: 
+                  if [att 9] <= -0.05936952175419839: 
+                    Leaf [class] = <class 1> weights: {71|10.408}
+                  if [att 9] > -0.05936952175419839: 
+                    Leaf [class] = <class 2> weights: {52|1,170.592}
+                if [att 9] > 0.6821351321842851: 
+                  Leaf [class] = <class 1> weights: {377.621|104.312}
+              if [att 4] > 0.42524746849916495: 
+                Leaf [class] = <class 1> weights: {800|746.409}
+          if [att 6] > 0.5918494992585619: 
+            if [att 9] <= 0.21472925842753976: 
+              if [att 8] <= 0.8769497358955277: 
+                Leaf [class] = <class 1> weights: {2,971.19|217.045}
+              if [att 8] > 0.8769497358955277: 
+                Leaf [class] = <class 2> weights: {45.81|79.955}
+            if [att 9] > 0.21472925842753976: 
+              if [att 4] <= 0.33192278504449024: 
+                if [att 8] <= 0.6295341473473615: 
+                  Leaf [class] = <class 1> weights: {1,401.414|303.259}
+                if [att 8] > 0.6295341473473615: 
+                  Leaf [class] = <class 2> weights: {100.586|544.741}
+              if [att 4] > 0.33192278504449024: 
+                if [att 7] <= 0.35786498274573686: 
+                  Leaf [class] = <class 2> weights: {734.89|1,003}
+                if [att 7] > 0.35786498274573686: 
+                  if [att 8] <= 0.6066041764707999: 
+                    if [att 3] <= -0.0223431920720224: 
+                      Leaf [class] = <class 1> weights: {179.412|43.271}
+                    if [att 3] > -0.0223431920720224: 
+                      Leaf [class] = <class 2> weights: {296.588|2,792.729}
+                  if [att 8] > 0.6066041764707999: 
+                    Leaf [class] = <class 2> weights: {257.421|686.776}
+        if [att 3] > 0.3635620957105986: 
+          if [att 2] <= -0.14539280004838329: 
+            if [att 4] <= 0.8864113694152832: 
+              Leaf [class] = <class 1> weights: {997.057|300}
+            if [att 4] > 0.8864113694152832: 
+              Leaf [class] = <class 1> weights: {232.943|61}
+          if [att 2] > -0.14539280004838329: 
+            if [att 7] <= 1.0607883360828851: 
+              if [att 4] <= 0.9248505278559688: 
+                if [att 9] <= 0.29833034162315347: 
+                  if [att 2] <= 0.5509620760271944: 
+                    if [att 6] <= 0.5020928841908727: 
+                      Leaf [class] = <class 2> weights: {261.351|886.845}
+                    if [att 6] > 0.5020928841908727: 
+                      if [att 8] <= 0.5340362572573161: 
+                        if [att 2] <= 0.41599365046443754: 
+                          if [att 4] <= 0.5101521789734179: 
+                            if [att 6] <= 0.640213596772606: 
+                              Leaf [class] = <class 1> weights: {58.098|27}
+                            if [att 6] > 0.640213596772606: 
+                              Leaf [class] = <class 1> weights: {2,361.902|0}
+                          if [att 4] > 0.5101521789734179: 
+                            Leaf [class] = <class 1> weights: {142.936|33}
+                        if [att 2] > 0.41599365046443754: 
+                          Leaf [class] = <class 1> weights: {162.122|23}
+                      if [att 8] > 0.5340362572573161: 
+                        Leaf [class] = <class 2> weights: {284.356|362.531}
+                  if [att 2] > 0.5509620760271944: 
+                    if [att 7] <= 0.15534143409716594: 
+                      if [att 8] <= 0.5205825696459696: 
+                        Leaf [class] = <class 1> weights: {2,660|168}
+                      if [att 8] > 0.5205825696459696: 
+                        Leaf [class] = <class 2> weights: {70|190}
+                    if [att 7] > 0.15534143409716594: 
+                      if [att 9] <= 0.012032644344266985: 
+                        if [att 2] <= 0.942199617727717: 
+                          Leaf [class] = <class 2> weights: {143.439|198}
+                        if [att 2] > 0.942199617727717: 
+                          Leaf [class] = <class 1> weights: {100.561|0}
+                      if [att 9] > 0.012032644344266985: 
+                        if [att 6] <= 0.6362452464581507: 
+                          if [att 4] <= 0.619163895449035: 
+                            if [att 2] <= 0.932628463207926: 
+                              if [att 8] <= 0.2746824254791444: 
+                                Leaf [class] = <class 2> weights: {29|52.175}
+                              if [att 8] > 0.2746824254791444: 
+                                Leaf [class] = <class 2> weights: {17|1,163.825}
+                            if [att 2] > 0.932628463207926: 
+                              Leaf [class] = <class 2> weights: {76.623|122.802}
+                          if [att 4] > 0.619163895449035: 
+                            if [att 5] <= 0.4082220646573531: 
+                              Leaf [class] = <class 1> weights: {140.983|35.321}
+                            if [att 5] > 0.4082220646573531: 
+                              if [att 7] <= 0.6208821639797903: 
+                                Leaf [class] = <class 2> weights: {0|162}
+                              if [att 7] > 0.6208821639797903: 
+                                Leaf [class] = <class 1> weights: {95|8}
+                        if [att 6] > 0.6362452464581507: 
+                          if [att 8] <= 0.5115707153353104: 
+                            Leaf [class] = <class 1> weights: {56.116|14.787}
+                          if [att 8] > 0.5115707153353104: 
+                            Leaf [class] = <class 2> weights: {39.884|355.213}
+                if [att 9] > 0.29833034162315347: 
+                  if [att 3] <= 0.7013227147763552: 
+                    if [att 7] <= 0.4551845124275845: 
+                      if [att 5] <= 0.8116327703335667: 
+                        if [att 10] <= 0.8473772326602722: 
+                          Leaf [class] = <class 1> weights: {616|561.24}
+                        if [att 10] > 0.8473772326602722: 
+                          Leaf [class] = <class 2> weights: {52|156.76}
+                      if [att 5] > 0.8116327703335667: 
+                        Leaf [class] = <class 2> weights: {60.852|535.22}
+                    if [att 7] > 0.4551845124275845: 
+                      if [att 6] <= 0.2686942891730197: 
+                        if [att 8] <= 0.48767177255384814: 
+                          Leaf [class] = <class 2> weights: {54|611.494}
+                        if [att 8] > 0.48767177255384814: 
+                          if [att 7] <= 0.6661747797474744: 
+                            if [att 9] <= 0.7306447541484224: 
+                              Leaf [class] = <class 2> weights: {14|581.865}
+                            if [att 9] > 0.7306447541484224: 
+                              Leaf [class] = <class 1> weights: {40|1.135}
+                          if [att 7] > 0.6661747797474744: 
+                            if [att 5] <= 0.08498995402892895: 
+                              Leaf [class] = <class 2> weights: {7|39.833}
+                            if [att 5] > 0.08498995402892895: 
+                              if [att 3] <= 0.44422219109238364: 
+                                Leaf [class] = <class 1> weights: {35.587|21}
+                              if [att 3] > 0.44422219109238364: 
+                                Leaf [class] = <class 1> weights: {483.413|0}
+                      if [att 6] > 0.2686942891730197: 
+                        if [att 10] <= 0.381240042686293: 
+                          if [att 8] <= 0.38722882504147854: 
+                            Leaf [class] = <class 1> weights: {171|162.094}
+                          if [att 8] > 0.38722882504147854: 
+                            Leaf [class] = <class 2> weights: {150|1,561.906}
+                        if [att 10] > 0.381240042686293: 
+                          if [att 10] <= 0.6380453255135357: 
+                            if [att 8] <= 0.7974298615060578: 
+                              if [att 10] <= 0.41032153095019624: 
+                                Leaf [class] = <class 1> weights: {33|11}
+                              if [att 10] > 0.41032153095019624: 
+                                Leaf [class] = <class 2> weights: {44|330}
+                            if [att 8] > 0.7974298615060578: 
+                              Leaf [class] = <class 2> weights: {151|234.434}
+                          if [att 10] > 0.6380453255135357: 
+                            if [att 5] <= 0.5877843998938501: 
+                              if [att 10] <= 0.7060868211095671: 
+                                Leaf [class] = <class 2> weights: {11|409.716}
+                              if [att 10] > 0.7060868211095671: 
+                                Leaf [class] = <class 2> weights: {20|3,039.284}
+                            if [att 5] > 0.5877843998938501: 
+                              Leaf [class] = <class 2> weights: {31.374|251.467}
+                  if [att 3] > 0.7013227147763552: 
+                    if [att 7] <= 0.13750251669653468: 
+                      if [att 5] <= 0.39677478879816824: 
+                        Leaf [class] = <class 1> weights: {222.903|61.816}
+                      if [att 5] > 0.39677478879816824: 
+                        Leaf [class] = <class 2> weights: {147.097|155.184}
+                    if [att 7] > 0.13750251669653468: 
+                      if [att 7] <= 0.8105475944177414: 
+                        Leaf [class] = <class 2> weights: {489.805|856}
+                      if [att 7] > 0.8105475944177414: 
+                        Leaf [class] = <class 1> weights: {172.195|142}
+              if [att 4] > 0.9248505278559688: 
+                if [att 8] <= 0.5856642482965947: 
+                  Leaf [class] = <class 2> weights: {602.256|1,061.233}
+                if [att 8] > 0.5856642482965947: 
+                  if [att 4] <= 1.247259388401085: 
+                    if [att 2] <= 0.35023628009741997: 
+                      Leaf [class] = <class 1> weights: {340.124|52}
+                    if [att 2] > 0.35023628009741997: 
+                      if [att 9] <= 0.18289651299633547: 
+                        Leaf [class] = <class 2> weights: {8|27.458}
+                      if [att 9] > 0.18289651299633547: 
+                        Leaf [class] = <class 1> weights: {3,146|23.542}
+                  if [att 4] > 1.247259388401085: 
+                    Leaf [class] = <class 1> weights: {279.85|42.583}
+            if [att 7] > 1.0607883360828851: 
+              Leaf [class] = <class 1> weights: {2,117.986|1,002}
+    if [att 1] > 0.5630211976933361: 
+      if [att 2] <= 0.14448289561247185: 
+        if [att 10] <= 0.3883481920529853: 
+          if [att 6] <= 0.6442239024342636: 
+            if [att 2] <= -0.22487065465577794: 
+              Leaf [class] = <class 2> weights: {528.594|709}
+            if [att 2] > -0.22487065465577794: 
+              if [att 5] <= 0.29856987051133166: 
+                Leaf [class] = <class 1> weights: {574.311|212.722}
+              if [att 5] > 0.29856987051133166: 
+                if [att 8] <= 0.17519064093942985: 
+                  Leaf [class] = <class 1> weights: {116|29.67}
+                if [att 8] > 0.17519064093942985: 
+                  if [att 9] <= 0.490169658404514: 
+                    Leaf [class] = <class 2> weights: {76|168.801}
+                  if [att 9] > 0.490169658404514: 
+                    Leaf [class] = <class 2> weights: {95|477.199}
+          if [att 6] > 0.6442239024342636: 
+            if [att 4] <= 0.07037677766141637: 
+              if [att 1] <= 1.2180781588353407: 
+                Leaf [class] = <class 1> weights: {712.842|43.711}
+              if [att 1] > 1.2180781588353407: 
+                Leaf [class] = <class 2> weights: {13.158|82.289}
+            if [att 4] > 0.07037677766141637: 
+              if [att 5] <= 0.6016663621724072: 
+                if [att 5] <= 0.24730721962089564: 
+                  Leaf [class] = <class 1> weights: {486.01|61.985}
+                if [att 5] > 0.24730721962089564: 
+                  if [att 8] <= 0.48652535794588914: 
+                    Leaf [class] = <class 1> weights: {73.869|33}
+                  if [att 8] > 0.48652535794588914: 
+                    Leaf [class] = <class 2> weights: {56.131|94}
+              if [att 5] > 0.6016663621724072: 
+                if [att 3] <= 0.08017421485431253: 
+                  Leaf [class] = <class 1> weights: {119.465|39}
+                if [att 3] > 0.08017421485431253: 
+                  if [att 5] <= 1.0568339977336811: 
+                    Leaf [class] = <class 2> weights: {532|609.479}
+                  if [att 5] > 1.0568339977336811: 
+                    Leaf [class] = <class 2> weights: {82|224.521}
+        if [att 10] > 0.3883481920529853: 
+          if [att 1] <= 0.9641145367174292: 
+            if [att 7] <= 0.31040194296313595: 
+              if [att 7] <= -0.2501318432619507: 
+                Leaf [class] = <class 2> weights: {89.194|97.689}
+              if [att 7] > -0.2501318432619507: 
+                if [att 4] <= 0.1982609985324802: 
+                  Leaf [class] = <class 1> weights: {50.574|38}
+                if [att 4] > 0.1982609985324802: 
+                  Leaf [class] = <class 1> weights: {602.426|27}
+            if [att 7] > 0.31040194296313595: 
+              if [att 4] <= 0.130324521235598: 
+                Leaf [class] = <class 1> weights: {1,645.7|225.052}
+              if [att 4] > 0.130324521235598: 
+                if [att 9] <= 0.1339605652925696: 
+                  if [att 8] <= 0.6142309091695876: 
+                    if [att 4] <= 1.054241619398042: 
+                      Leaf [class] = <class 1> weights: {216.907|0}
+                    if [att 4] > 1.054241619398042: 
+                      Leaf [class] = <class 2> weights: {0.093|14}
+                  if [att 8] > 0.6142309091695876: 
+                    Leaf [class] = <class 2> weights: {10.877|69.961}
+                if [att 9] > 0.1339605652925696: 
+                  Leaf [class] = <class 2> weights: {1,317.956|1,664}
+          if [att 1] > 0.9641145367174292: 
+            if [att 3] <= 0.42053468943607575: 
+              if [att 4] <= 0.5919908846631793: 
+                Leaf [class] = <class 1> weights: {331.981|97.029}
+              if [att 4] > 0.5919908846631793: 
+                Leaf [class] = <class 1> weights: {261.019|165.971}
+            if [att 3] > 0.42053468943607575: 
+              if [att 4] <= 0.7632233889768412: 
+                Leaf [class] = <class 1> weights: {2,475.479|128}
+              if [att 4] > 0.7632233889768412: 
+                if [att 5] <= 0.7893403263707703: 
+                  Leaf [class] = <class 1> weights: {351|105.625}
+                if [att 5] > 0.7893403263707703: 
+                  Leaf [class] = <class 2> weights: {103|114.375}
+      if [att 2] > 0.14448289561247185: 
+        if [att 2] <= 0.5073292330347198: 
+          if [att 9] <= 0.41778306555379763: 
+            if [att 8] <= 0.7382281939221027: 
+              if [att 4] <= 0.7469380954686468: 
+                if [att 2] <= 0.3058958151992065: 
+                  if [att 5] <= 0.12885199252671997: 
+                    Leaf [class] = <class 1> weights: {136.701|125.424}
+                  if [att 5] > 0.12885199252671997: 
+                    if [att 3] <= 0.5344361900201356: 
+                      if [att 6] <= 0.5837755804041729: 
+                        Leaf [class] = <class 2> weights: {53|78}
+                      if [att 6] > 0.5837755804041729: 
+                        Leaf [class] = <class 1> weights: {414|10}
+                    if [att 3] > 0.5344361900201356: 
+                      Leaf [class] = <class 1> weights: {2,040.732|139}
+                if [att 2] > 0.3058958151992065: 
+                  Leaf [class] = <class 1> weights: {2,137.935|1,109}
+              if [att 4] > 0.7469380954686468: 
+                Leaf [class] = <class 2> weights: {556.694|1,127.009}
+            if [att 8] > 0.7382281939221027: 
+              Leaf [class] = <class 2> weights: {931.602|2,054.281}
+          if [att 9] > 0.41778306555379763: 
+            if [att 2] <= 0.3402396494305263: 
+              if [att 9] <= 0.5457308636970468: 
+                Leaf [class] = <class 1> weights: {1,881.716|1,176.402}
+              if [att 9] > 0.5457308636970468: 
+                if [att 1] <= 0.780046866825777: 
+                  if [att 8] <= 0.4798517401044463: 
+                    if [att 8] <= 0.3213894963567875: 
+                      Leaf [class] = <class 2> weights: {108|1,016.206}
+                    if [att 8] > 0.3213894963567875: 
+                      Leaf [class] = <class 2> weights: {82|119.794}
+                  if [att 8] > 0.4798517401044463: 
+                    if [att 7] <= 0.9857608821122065: 
+                      Leaf [class] = <class 1> weights: {1,987.021|189.92}
+                    if [att 7] > 0.9857608821122065: 
+                      Leaf [class] = <class 2> weights: {19.979|48.08}
+                if [att 1] > 0.780046866825777: 
+                  if [att 4] <= 0.29351821166031566: 
+                    if [att 3] <= 0.5848996789043596: 
+                      Leaf [class] = <class 1> weights: {2,687.375|236.691}
+                    if [att 3] > 0.5848996789043596: 
+                      Leaf [class] = <class 1> weights: {210.625|165.309}
+                  if [att 4] > 0.29351821166031566: 
+                    if [att 1] <= 0.9653374606675369: 
+                      if [att 3] <= 0.4767495340505442: 
+                        if [att 5] <= 0.2299547309620633: 
+                          if [att 3] <= 0.15433318529492945: 
+                            if [att 2] <= 0.28073737000888893: 
+                              if [att 9] <= 0.925169719026044: 
+                                Leaf [class] = <class 2> weights: {0|5,915.965}
+                              if [att 9] > 0.925169719026044: 
+                                Leaf [class] = <class 2> weights: {12|57.035}
+                            if [att 2] > 0.28073737000888893: 
+                              Leaf [class] = <class 2> weights: {9|698.034}
+                          if [att 3] > 0.15433318529492945: 
+                            Leaf [class] = <class 2> weights: {231|365.327}
+                        if [att 5] > 0.2299547309620633: 
+                          if [att 8] <= 0.7571293244837258: 
+                            Leaf [class] = <class 2> weights: {92.587|331}
+                          if [att 8] > 0.7571293244837258: 
+                            Leaf [class] = <class 1> weights: {384.413|18}
+                      if [att 3] > 0.4767495340505442: 
+                        if [att 5] <= 0.523951310746164: 
+                          if [att 8] <= 0.5116751041934363: 
+                            Leaf [class] = <class 2> weights: {11|94.319}
+                          if [att 8] > 0.5116751041934363: 
+                            Leaf [class] = <class 1> weights: {1,303|55.681}
+                        if [att 5] > 0.523951310746164: 
+                          if [att 10] <= 0.20716809994465657: 
+                            if [att 7] <= 0.23840593282615022: 
+                              Leaf [class] = <class 2> weights: {0|6,374.356}
+                            if [att 7] > 0.23840593282615022: 
+                              Leaf [class] = <class 2> weights: {13|177.644}
+                          if [att 10] > 0.20716809994465657: 
+                            Leaf [class] = <class 1> weights: {282.522|107}
+                    if [att 1] > 0.9653374606675369: 
+                      Leaf [class] = <class 2> weights: {930.901|999.163}
+            if [att 2] > 0.3402396494305263: 
+              if [att 8] <= 0.2170842610465077: 
+                if [att 10] <= 0.2338365968678947: 
+                  if [att 4] <= 0.41705885960415817: 
+                    Leaf [class] = <class 1> weights: {86.782|14}
+                  if [att 4] > 0.41705885960415817: 
+                    Leaf [class] = <class 2> weights: {55.218|172}
+                if [att 10] > 0.2338365968678947: 
+                  Leaf [class] = <class 2> weights: {430.574|2,187}
+              if [att 8] > 0.2170842610465077: 
+                if [att 3] <= 0.5560692136492977: 
+                  if [att 3] <= 0.47539895786240166: 
+                    if [att 5] <= 0.2586771700768809: 
+                      Leaf [class] = <class 2> weights: {391|448.696}
+                    if [att 5] > 0.2586771700768809: 
+                      if [att 4] <= 0.6855480862158108: 
+                        if [att 4] <= 0.5179594301064716: 
+                          if [att 3] <= 0.3227694881572011: 
+                            Leaf [class] = <class 1> weights: {2,514.907|63.602}
+                          if [att 3] > 0.3227694881572011: 
+                            Leaf [class] = <class 1> weights: {154.093|26.398}
+                        if [att 4] > 0.5179594301064716: 
+                          if [att 8] <= 0.5359833884930807: 
+                            Leaf [class] = <class 2> weights: {0|94.716}
+                          if [att 8] > 0.5359833884930807: 
+                            Leaf [class] = <class 1> weights: {90|53.284}
+                      if [att 4] > 0.6855480862158108: 
+                        Leaf [class] = <class 1> weights: {446.55|317.982}
+                  if [att 3] > 0.47539895786240166: 
+                    if [att 8] <= 0.6722839357894963: 
+                      Leaf [class] = <class 2> weights: {94.765|336.482}
+                    if [att 8] > 0.6722839357894963: 
+                      Leaf [class] = <class 1> weights: {553.235|152.518}
+                if [att 3] > 0.5560692136492977: 
+                  if [att 4] <= 0.9415517015848143: 
+                    if [att 1] <= 0.7974960640631248: 
+                      if [att 4] <= 0.6945870774365597: 
+                        Leaf [class] = <class 2> weights: {144|308.41}
+                      if [att 4] > 0.6945870774365597: 
+                        Leaf [class] = <class 1> weights: {466|36.59}
+                    if [att 1] > 0.7974960640631248: 
+                      if [att 6] <= 0.36027542209922675: 
+                        Leaf [class] = <class 1> weights: {488.493|432.543}
+                      if [att 6] > 0.36027542209922675: 
+                        if [att 4] <= 0.5509673168452639: 
+                          Leaf [class] = <class 2> weights: {0|150.876}
+                        if [att 4] > 0.5509673168452639: 
+                          Leaf [class] = <class 1> weights: {97|50.124}
+                  if [att 4] > 0.9415517015848143: 
+                    Leaf [class] = <class 1> weights: {667.183|210}
+        if [att 2] > 0.5073292330347198: 
+          if [att 2] <= 1.0883409673380502: 
+            if [att 4] <= 1.0861921499578897: 
+              if [att 10] <= 0.23914972690300063: 
+                if [att 4] <= 0.2639667569007969: 
+                  if [att 6] <= 0.28797614744311195: 
+                    if [att 2] <= 0.8211613620687561: 
+                      Leaf [class] = <class 2> weights: {50|181.166}
+                    if [att 2] > 0.8211613620687561: 
+                      Leaf [class] = <class 1> weights: {104|72.834}
+                  if [att 6] > 0.28797614744311195: 
+                    if [att 7] <= 0.03488504215148369: 
+                      Leaf [class] = <class 2> weights: {47|80.395}
+                    if [att 7] > 0.03488504215148369: 
+                      if [att 8] <= 0.6679692839174245: 
+                        Leaf [class] = <class 1> weights: {470|115.696}
+                      if [att 8] > 0.6679692839174245: 
+                        Leaf [class] = <class 2> weights: {14|111.304}
+                if [att 4] > 0.2639667569007969: 
+                  if [att 8] <= 0.41849214143753233: 
+                    Leaf [class] = <class 1> weights: {1,137.397|810.799}
+                  if [att 8] > 0.41849214143753233: 
+                    if [att 3] <= 0.4507040395006702: 
+                      if [att 4] <= 0.49591495947019537: 
+                        if [att 4] <= 0.363696401874701: 
+                          Leaf [class] = <class 1> weights: {90.643|18.737}
+                        if [att 4] > 0.363696401874701: 
+                          Leaf [class] = <class 2> weights: {17.357|85.263}
+                      if [att 4] > 0.49591495947019537: 
+                        if [att 9] <= 0.34134361480482134: 
+                          Leaf [class] = <class 2> weights: {105|3,113.086}
+                        if [att 9] > 0.34134361480482134: 
+                          Leaf [class] = <class 2> weights: {242|265.914}
+                    if [att 3] > 0.4507040395006702: 
+                      if [att 8] <= 0.7194713106148003: 
+                        Leaf [class] = <class 2> weights: {96|411.578}
+                      if [att 8] > 0.7194713106148003: 
+                        if [att 4] <= 0.6530769945766992: 
+                          Leaf [class] = <class 2> weights: {64.666|379.066}
+                        if [att 4] > 0.6530769945766992: 
+                          if [att 7] <= 0.7939069965279744: 
+                            Leaf [class] = <class 2> weights: {85.948|206}
+                          if [att 7] > 0.7939069965279744: 
+                            Leaf [class] = <class 1> weights: {358.052|0}
+              if [att 10] > 0.23914972690300063: 
+                if [att 7] <= 0.5959819748385327: 
+                  if [att 5] <= 0.6109152193735155: 
+                    if [att 9] <= 0.09319980379661608: 
+                      Leaf [class] = <class 1> weights: {1,202.752|797}
+                    if [att 9] > 0.09319980379661608: 
+                      if [att 10] <= 0.5534422510630865: 
+                        if [att 7] <= 0.16042103058446233: 
+                          Leaf [class] = <class 1> weights: {369.24|335.56}
+                        if [att 7] > 0.16042103058446233: 
+                          if [att 5] <= 0.10729741405139843: 
+                            Leaf [class] = <class 2> weights: {120|232.738}
+                          if [att 5] > 0.10729741405139843: 
+                            if [att 9] <= 0.5043672714967085: 
+                              Leaf [class] = <class 2> weights: {137.001|367.787}
+                            if [att 9] > 0.5043672714967085: 
+                              Leaf [class] = <class 2> weights: {235.999|2,067.213}
+                      if [att 10] > 0.5534422510630865: 
+                        if [att 2] <= 0.5824398189066081: 
+                          if [att 3] <= 0.32635388829171696: 
+                            Leaf [class] = <class 2> weights: {68|282.071}
+                          if [att 3] > 0.32635388829171696: 
+                            if [att 5] <= 0.03636766469784619: 
+                              Leaf [class] = <class 2> weights: {40.924|62.556}
+                            if [att 5] > 0.03636766469784619: 
+                              if [att 8] <= 0.27000927926461615: 
+                                Leaf [class] = <class 2> weights: {18|22.508}
+                              if [att 8] > 0.27000927926461615: 
+                                Leaf [class] = <class 2> weights: {22|2,121.492}
+                        if [att 2] > 0.5824398189066081: 
+                          if [att 9] <= 0.2693180753891655: 
+                            if [att 4] <= 0.6071508883006699: 
+                              Leaf [class] = <class 2> weights: {221|951.292}
+                            if [att 4] > 0.6071508883006699: 
+                              Leaf [class] = <class 1> weights: {299|132.708}
+                          if [att 9] > 0.2693180753891655: 
+                            if [att 2] <= 0.8530379029099395: 
+                              if [att 4] <= 0.7007550358504443: 
+                                if [att 8] <= 0.3670312825937335: 
+                                  if [att 1] <= 0.6502931223647566: 
+                                    Leaf [class] = <class 2> weights: {33|278.674}
+                                  if [att 1] > 0.6502931223647566: 
+                                    if [att 10] <= 0.6860183136942235: 
+                                      Leaf [class] = <class 2> weights: {6|72}
+                                    if [att 10] > 0.6860183136942235: 
+                                      Leaf [class] = <class 2> weights: {0|1,814}
+                                if [att 8] > 0.3670312825937335: 
+                                  if [att 1] <= 0.6928126658536573: 
+                                    Leaf [class] = <class 2> weights: {41|484.351}
+                                  if [att 1] > 0.6928126658536573: 
+                                    if [att 8] <= 0.6691338526444621: 
+                                      Leaf [class] = <class 2> weights: {33|626.129}
+                                    if [att 8] > 0.6691338526444621: 
+                                      if [att 9] <= 0.6889399580688602: 
+                                        if [att 4] <= 0.4187686414167404: 
+                                          Leaf [class] = <class 2> weights: {0|12,815.074}
+                                        if [att 4] > 0.4187686414167404: 
+                                          Leaf [class] = <class 2> weights: {20|227.926}
+                                      if [att 9] > 0.6889399580688602: 
+                                        Leaf [class] = <class 2> weights: {22|93.063}
+                              if [att 4] > 0.7007550358504443: 
+                                if [att 2] <= 0.6136558758474211: 
+                                  Leaf [class] = <class 2> weights: {70|84.533}
+                                if [att 2] > 0.6136558758474211: 
+                                  if [att 8] <= 0.5678589470468896: 
+                                    Leaf [class] = <class 2> weights: {37|2,266}
+                                  if [att 8] > 0.5678589470468896: 
+                                    Leaf [class] = <class 1> weights: {68|17}
+                            if [att 2] > 0.8530379029099395: 
+                              if [att 7] <= 0.15762607838155507: 
+                                if [att 4] <= 0.4275764544495351: 
+                                  Leaf [class] = <class 2> weights: {0|217.841}
+                                if [att 4] > 0.4275764544495351: 
+                                  Leaf [class] = <class 1> weights: {138|118.159}
+                              if [att 7] > 0.15762607838155507: 
+                                if [att 3] <= 0.8415819249363409: 
+                                  if [att 10] <= 0.610126314950346: 
+                                    Leaf [class] = <class 2> weights: {0|150.754}
+                                  if [att 10] > 0.610126314950346: 
+                                    Leaf [class] = <class 2> weights: {21|2,271.246}
+                                if [att 3] > 0.8415819249363409: 
+                                  Leaf [class] = <class 2> weights: {23.711|77.96}
+                  if [att 5] > 0.6109152193735155: 
+                    if [att 9] <= 0.008365002287687717: 
+                      Leaf [class] = <class 1> weights: {574.967|472.554}
+                    if [att 9] > 0.008365002287687717: 
+                      if [att 8] <= 0.11232205523907934: 
+                        Leaf [class] = <class 2> weights: {109|815.102}
+                      if [att 8] > 0.11232205523907934: 
+                        if [att 8] <= 0.9187966289813716: 
+                          if [att 9] <= 0.41173548612805744: 
+                            Leaf [class] = <class 2> weights: {96.832|164.559}
+                          if [att 9] > 0.41173548612805744: 
+                            Leaf [class] = <class 2> weights: {13.168|329.441}
+                        if [att 8] > 0.9187966289813716: 
+                          Leaf [class] = <class 1> weights: {164.154|75.468}
+                if [att 7] > 0.5959819748385327: 
+                  if [att 7] <= 0.9377525236260728: 
+                    if [att 6] <= -0.029465506378276912: 
+                      if [att 8] <= 0.44032706139428285: 
+                        Leaf [class] = <class 2> weights: {72|1,094.458}
+                      if [att 8] > 0.44032706139428285: 
+                        if [att 8] <= 0.6715686378774048: 
+                          Leaf [class] = <class 2> weights: {33.935|225.615}
+                        if [att 8] > 0.6715686378774048: 
+                          Leaf [class] = <class 1> weights: {264.065|31.385}
+                    if [att 6] > -0.029465506378276912: 
+                      if [att 9] <= 0.12476571174622858: 
+                        if [att 8] <= 0.8134011094308264: 
+                          Leaf [class] = <class 1> weights: {815.264|31}
+                        if [att 8] > 0.8134011094308264: 
+                          Leaf [class] = <class 2> weights: {29.736|268}
+                      if [att 9] > 0.12476571174622858: 
+                        if [att 8] <= 0.8807504386272351: 
+                          if [att 3] <= -0.024308912306736152: 
+                            if [att 3] <= -0.1515547848607653: 
+                              Leaf [class] = <class 1> weights: {32|29}
+                            if [att 3] > -0.1515547848607653: 
+                              Leaf [class] = <class 2> weights: {13|258}
+                          if [att 3] > -0.024308912306736152: 
+                            if [att 8] <= 0.7638092210655731: 
+                              if [att 1] <= 1.1024833112105061: 
+                                if [att 5] <= 0.716056834117035: 
+                                  if [att 10] <= 0.5509814499534555: 
+                                    Leaf [class] = <class 2> weights: {138.801|758.266}
+                                  if [att 10] > 0.5509814499534555: 
+                                    if [att 10] <= 0.6255024256470824: 
+                                      Leaf [class] = <class 2> weights: {0|192.699}
+                                    if [att 10] > 0.6255024256470824: 
+                                      Leaf [class] = <class 2> weights: {0|1,583.301}
+                                if [att 5] > 0.716056834117035: 
+                                  Leaf [class] = <class 2> weights: {129|567.267}
+                              if [att 1] > 1.1024833112105061: 
+                                Leaf [class] = <class 2> weights: {79.814|165.533}
+                            if [att 8] > 0.7638092210655731: 
+                              if [att 4] <= 0.688723952370601: 
+                                if [att 9] <= 0.6491242582233117: 
+                                  Leaf [class] = <class 2> weights: {0|229.315}
+                                if [att 9] > 0.6491242582233117: 
+                                  Leaf [class] = <class 1> weights: {52|18.685}
+                              if [att 4] > 0.688723952370601: 
+                                Leaf [class] = <class 1> weights: {115|6.36}
+                        if [att 8] > 0.8807504386272351: 
+                          if [att 4] <= 0.37402541052847893: 
+                            Leaf [class] = <class 2> weights: {89.229|1,551.805}
+                          if [att 4] > 0.37402541052847893: 
+                            Leaf [class] = <class 1> weights: {961.771|159.195}
+                  if [att 7] > 0.9377525236260728: 
+                    if [att 4] <= 0.41758684122617157: 
+                      if [att 5] <= 0.8275290267145442: 
+                        Leaf [class] = <class 2> weights: {332.487|1,451.527}
+                      if [att 5] > 0.8275290267145442: 
+                        Leaf [class] = <class 1> weights: {334.513|53.473}
+                    if [att 4] > 0.41758684122617157: 
+                      if [att 8] <= 0.5360293416887854: 
+                        Leaf [class] = <class 2> weights: {148|359.743}
+                      if [att 8] > 0.5360293416887854: 
+                        if [att 6] <= 0.5498253290143399: 
+                          Leaf [class] = <class 1> weights: {1,191|32}
+                        if [att 6] > 0.5498253290143399: 
+                          Leaf [class] = <class 2> weights: {21|41}
+            if [att 4] > 1.0861921499578897: 
+              if [att 8] <= 0.6539445217517644: 
+                if [att 1] <= 0.7573834483680785: 
+                  Leaf [class] = <class 1> weights: {321.367|295}
+                if [att 1] > 0.7573834483680785: 
+                  Leaf [class] = <class 2> weights: {449.633|1,024}
+              if [att 8] > 0.6539445217517644: 
+                Leaf [class] = <class 1> weights: {1,872.242|374.304}
+          if [att 2] > 1.0883409673380502: 
+            if [att 10] <= 0.8262467257571429: 
+              if [att 4] <= 0.44411904462372503: 
+                Leaf [class] = <class 1> weights: {922|853.96}
+              if [att 4] > 0.44411904462372503: 
+                if [att 6] <= 0.4873231729485781: 
+                  Leaf [class] = <class 1> weights: {1,742.728|510.342}
+                if [att 6] > 0.4873231729485781: 
+                  Leaf [class] = <class 2> weights: {700.272|710.658}
+            if [att 10] > 0.8262467257571429: 
+              Leaf [class] = <class 2> weights: {677.11|1,902.042}
