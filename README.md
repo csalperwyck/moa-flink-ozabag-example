@@ -1,11 +1,11 @@
-# Streaming Machine Learning with Flink and MOA - Online bagging (OzaBag)#
+# Streaming Machine Learning with Flink and MOA - Online bagging (OzaBag) #
 This project combines:
 - Flink as a stream engine: https://flink.apache.org/
 - MOA as stream machine learning library: https://moa.cms.waikato.ac.nz/
 
 ## Data ##
 The data is generated using the MOA RandomRBF generator.
-Many generators with the same seed will run in parallel so that each classifier will receive the same examples. It is in each classifier that we will decide which weight to put on each instance.
+Many generators with the same seed will run in parallel so that each classifier will receive the same examples. To apply online bagging (OzaBag), it is in each classifier that we will decide which weight to put on each instance.
 
 
 ## Model update ##
