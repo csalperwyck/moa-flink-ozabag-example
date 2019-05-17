@@ -22,6 +22,7 @@ import java.nio.file.StandardOpenOption;
 import java.util.Random;
 import java.util.concurrent.atomic.AtomicInteger;
 
+import org.apache.flink.api.common.time.Time;
 import org.apache.flink.configuration.Configuration;
 import org.apache.flink.streaming.api.TimerService;
 import org.apache.flink.streaming.api.functions.KeyedProcessFunction;
@@ -42,9 +43,9 @@ public class LearningFunction extends KeyedProcessFunction<Integer, Example<Inst
 	private static AtomicInteger seq = new AtomicInteger(0);
 	private long seed;
 	private boolean timerOn = false;
-	private long savingInterval;
+	private Time savingInterval;
 	
-	public LearningFunction(long savingInterval) {
+	public LearningFunction(Time savingInterval) {
 		this.savingInterval = savingInterval;
 	}
 
@@ -74,7 +75,7 @@ public class LearningFunction extends KeyedProcessFunction<Integer, Example<Inst
         // register an event to save the model
         if (!timerOn) {
         	TimerService timerService = ctx.timerService();
-        	timerService.registerEventTimeTimer(timerService.currentProcessingTime() + savingInterval);
+        	timerService.registerEventTimeTimer(timerService.currentProcessingTime() + savingInterval.toMilliseconds());
         	timerOn = true;
         }
 		
@@ -93,7 +94,7 @@ public class LearningFunction extends KeyedProcessFunction<Integer, Example<Inst
 			ht.getModelDescription(sb, 2);
 		}
 		
-		collector.collect(
+		collector.collect("Saving model on disk, file " + 
 				// save the model in a file, but we could push to our online system!
 				Files.write(
 					Paths.get("model/FlinkMOA_" + timestamp + "_seed-" + seed + ".model"), 

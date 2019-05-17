@@ -33,6 +33,8 @@ public class RRBFSource extends RichParallelSourceFunction<Example<Instance>> {
 		@Override
 		public void open(Configuration parameters) throws Exception {
 			rrbf.prepareForUse();
+			//use the same seed so that we will get the same examples in all parallel tasks
+			rrbf.instanceRandomSeedOption.setValue(11);
 		}
 		
 		@Override
@@ -44,7 +46,8 @@ public class RRBFSource extends RichParallelSourceFunction<Example<Instance>> {
 		public void run(SourceContext<Example<Instance>> sc) throws Exception {
 			isRunning = true;
 			while (isRunning) {
-				sc.collect(rrbf.nextInstance());
+				Example<Instance> example = rrbf.nextInstance();
+				sc.collect(example);
 			}
 		}
 }

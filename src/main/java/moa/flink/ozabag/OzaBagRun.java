@@ -16,6 +16,7 @@
  */
 package moa.flink.ozabag;
 
+import org.apache.flink.api.common.time.Time;
 import org.apache.flink.streaming.api.TimeCharacteristic;
 import org.apache.flink.streaming.api.datastream.DataStreamSource;
 import org.apache.flink.streaming.api.environment.StreamContextEnvironment;
@@ -36,14 +37,15 @@ public class OzaBagRun {
 		DataStreamSource<Example<Instance>> rrbfSource = env.addSource(new RRBFSource());
 		BaggingKeySelector selector = new BaggingKeySelector();
 		
-		rrbfSource.keyBy(selector). process(new LearningFunction(60_000L)).print();
+		rrbfSource.keyBy(selector).process(
+				new LearningFunction(Time.seconds(60))).print();
 		
 		//want to see your execution plan :-)
 		//http://flink.apache.org/visualizer/index.html
 		//System.out.println(env.getExecutionPlan());
 		
 		// fire execution
-		env.execute("MOA with Flink");
+		env.execute("MOA Flink - MeetUp Krakow - January 16th 2018");
 	}
 
 }
