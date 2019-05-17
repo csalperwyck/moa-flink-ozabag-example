@@ -24,7 +24,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 import org.apache.flink.configuration.Configuration;
 import org.apache.flink.streaming.api.TimerService;
-import org.apache.flink.streaming.api.functions.ProcessFunction;
+import org.apache.flink.streaming.api.functions.KeyedProcessFunction;
 import org.apache.flink.util.Collector;
 
 import com.yahoo.labs.samoa.instances.Instance;
@@ -33,7 +33,7 @@ import moa.classifiers.trees.HoeffdingTree;
 import moa.core.Example;
 import moa.core.MiscUtils;
 
-public class LearningFunction extends ProcessFunction<Example<Instance>, String> {
+public class LearningFunction extends KeyedProcessFunction<Integer, Example<Instance>, String> {
 
 	private static final long serialVersionUID = 1L;
 	private HoeffdingTree ht;
@@ -57,7 +57,7 @@ public class LearningFunction extends ProcessFunction<Example<Instance>, String>
 	}
 
 	@Override
-	public void processElement(Example<Instance> record, ProcessFunction<Example<Instance>, String>.Context ctx, Collector<String> collector) {
+	public void processElement(Example<Instance> record, KeyedProcessFunction<Integer, Example<Instance>, String>.Context ctx, Collector<String> collector) {
 		
 		examplesSeen++;
         int k = MiscUtils.poisson(1.0, random);
